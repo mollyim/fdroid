@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1590138851000,
+    "timestamp": 1590144315000,
     "version": 21,
     "name": "Molly F-Droid Repo",
     "icon": "molly-icon.png",
@@ -29,10 +29,10 @@
       "sourceCode": "https://github.com/mollyim/mollyim-android",
       "summary": "A fork of Signal with passphrase lock",
       "webSite": "https://molly.im",
-      "added": 1590138833000,
+      "added": 1587906618000,
       "icon": "im.molly.app.6305.png",
       "packageName": "im.molly.app",
-      "lastUpdated": 1590138851000
+      "lastUpdated": 1590145912000
     },
     {
       "authorName": "Oscar Mira",
@@ -51,16 +51,16 @@
       "sourceCode": "https://github.com/mollyim/mollyim-android",
       "summary": "A fork of Signal with passphrase lock",
       "webSite": "https://molly.im",
-      "added": 1590138809000,
+      "added": 1587906623000,
       "icon": "im.molly.app.staging.6305.png",
       "packageName": "im.molly.app.staging",
-      "lastUpdated": 1590138828000
+      "lastUpdated": 1590145926000
     }
   ],
   "packages": {
     "im.molly.app": [
       {
-        "added": 1590138851000,
+        "added": 1590145912000,
         "apkName": "im.molly.app_6305.apk",
         "hash": "5874f9bc6c05ea56af39364f6ee319ac0b76fac25bb4e427ff3de584a16dfa97",
         "hashType": "sha256",
@@ -321,7 +321,7 @@
         "versionName": "v4.59.11-2"
       },
       {
-        "added": 1590138845000,
+        "added": 1589483364000,
         "apkName": "im.molly.app_6300.apk",
         "hash": "a9ab33915f8b3a0c7c5ce403e6d9c7ef2dfb2083c1c7d0adf02734ac2eb91a5f",
         "hashType": "sha256",
@@ -582,7 +582,7 @@
         "versionName": "v4.59.10-1"
       },
       {
-        "added": 1590138839000,
+        "added": 1589372787000,
         "apkName": "im.molly.app_6290.apk",
         "hash": "8bcf0ae9b1d4e446f0720fd211ae5fd3039384f20ced02c292c0fbb9b0f6e186",
         "hashType": "sha256",
@@ -843,7 +843,7 @@
         "versionName": "v4.59.9-1"
       },
       {
-        "added": 1590138833000,
+        "added": 1587906618000,
         "apkName": "im.molly.app_6190.apk",
         "hash": "70176f918cb68760c34264435e5bfec3fb4acad8fafec2b6382a9f9e1572ecc0",
         "hashType": "sha256",
@@ -1106,7 +1106,7 @@
     ],
     "im.molly.app.staging": [
       {
-        "added": 1590138828000,
+        "added": 1590145926000,
         "apkName": "im.molly.app.staging_6305.apk",
         "hash": "a662c9c7cb5e326497d400eea6ab716bd9906c94602b81526b4fb2f032c6de92",
         "hashType": "sha256",
@@ -1367,7 +1367,7 @@
         "versionName": "v4.59.11-2"
       },
       {
-        "added": 1590138821000,
+        "added": 1589483369000,
         "apkName": "im.molly.app.staging_6300.apk",
         "hash": "d2dba37b6c8fd4035ba5a35c9b9d4a30490faed6cb138006b8eec2a3f0b41774",
         "hashType": "sha256",
@@ -1628,7 +1628,7 @@
         "versionName": "v4.59.10-1"
       },
       {
-        "added": 1590138815000,
+        "added": 1589372793000,
         "apkName": "im.molly.app.staging_6290.apk",
         "hash": "1652e15a6c00509f93a99b48dd4ebe0f2d69b86bab6d9c40c56138a010340b0e",
         "hashType": "sha256",
@@ -1889,7 +1889,7 @@
         "versionName": "v4.59.9-1"
       },
       {
-        "added": 1590138809000,
+        "added": 1587906623000,
         "apkName": "im.molly.app.staging_6190.apk",
         "hash": "f9251015ccaddf7cdfc5168f80dfd5588419f55398b4c2a27dd6410ec9bf8792",
         "hashType": "sha256",
