@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1591828731000,
+    "timestamp": 1592095185000,
     "version": 21,
     "name": "Molly F-Droid Repo",
     "icon": "molly-icon.png",
@@ -22,7 +22,7 @@
       ],
       "changelog": "https://github.com/mollyim/mollyim-android/wiki/Changelog",
       "suggestedVersionCode": "6520",
-      "description": "<p>Molly is a hardened version of Signal for Android, the fast simple yet secure messaging app by Signal Foundation.</p><p>Back in 2018, Signal allowed the user to set a passphrase to secure the local message database. But this option was removed with the introduction of full-disk encryption on Android. Molly bring it back again with additional security features.</p><p>Molly is updated every two weeks to include the latest Signal changes and bug fixes.</p><p>For more information, please visit https://molly.im</p>",
+      "description": "<p>Molly is a hardened version of Signal for Android, the fast simple yet secure messaging app by Signal Foundation.</p><p>Back in 2018, Signal allowed the user to set a passphrase to secure the local message database. But this option was removed with the introduction of full-disk encryption on Android. Molly brings it back again with additional security features.</p><p>Molly is updated every two weeks to include the latest Signal changes and bug fixes.</p><p>For more information, please visit https://molly.im</p>",
       "issueTracker": "https://github.com/mollyim/mollyim-android/issues",
       "license": "GPL-3.0-only",
       "name": "Molly",
@@ -44,7 +44,7 @@
       ],
       "changelog": "https://github.com/mollyim/mollyim-android/wiki/Changelog",
       "suggestedVersionCode": "6520",
-      "description": "<p>Molly is a hardened version of Signal for Android, the fast simple yet secure messaging app by Signal Foundation.</p><p>Back in 2018, Signal allowed the user to set a passphrase to secure the local message database. But this option was removed with the introduction of full-disk encryption on Android. Molly bring it back again with additional security features.</p><p>Molly is updated every two weeks to include the latest Signal changes and bug fixes.</p><p>For more information, please visit https://molly.im</p>",
+      "description": "<p>Molly is a hardened version of Signal for Android, the fast simple yet secure messaging app by Signal Foundation.</p><p>Back in 2018, Signal allowed the user to set a passphrase to secure the local message database. But this option was removed with the introduction of full-disk encryption on Android. Molly brings it back again with additional security features.</p><p>Molly is updated every two weeks to include the latest Signal changes and bug fixes.</p><p>For more information, please visit https://molly.im</p>",
       "issueTracker": "https://github.com/mollyim/mollyim-android/issues",
       "license": "GPL-3.0-only",
       "name": "Molly Staging",
