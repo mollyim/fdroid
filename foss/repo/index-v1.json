@@ -1,0 +1,16 @@
+{
+  "repo": {
+    "timestamp": 1602598399000,
+    "version": 21,
+    "name": "Molly F-Droid Repo (FOSS)",
+    "icon": "molly-icon.png",
+    "address": "https://molly.im/fdroid/foss/repo",
+    "description": "The official repository of Molly for use with the F-Droid client. Applications in this repository are the same signed binaries that are released on GitHub. "
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [],
+  "packages": {}
+}

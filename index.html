@@ -7,44 +7,95 @@
 
 	<title>Molly F-Droid Repo</title>
 
-	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
-	 crossorigin="anonymous">
+	<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+	<style>
+		[data-toggle="collapse"] .fa:before {
+			content: "\f078";
+		}
+		[data-toggle="collapse"].collapsed .fa:before {
+			content: "\f054";
+		}
+	</style>
 </head>
 
 <body>
 	<div class="container">
-		<div class="py-5">
-			<div class="media">
-				<a href="https://molly.im/fdroid/repo?fingerprint=3B7E93B1FE32C6E35A93D6DDFC5AFBEB1239A7C6EA6AF20FF33ED53CDC38B04A">
-					<figure class="figure mr-4">
-						<img src="img/qrcode.png" alt="">
-						<figcaption class="figure-caption text-center">https://molly.im/fdroid/repo</figcaption>
-					</figure>
-				</a>
-				<div class="media-body">
-					<img src="img/fdroid-logo.png" alt="F-Droid" />
-					<p class="mt-4"><strong>Use F-Droid to install apps and ensure access to app updates</strong></p>
-					<p>
-						F-Droid is an independent, community-sourced app store.
-						Adding a repository to F-Droid makes the apps within it available for download
-						and ensures that you have access to secure app updates.
-					</p>
-					<p>Download F-Droid at <a href="https://f-droid.org">f-droid.org</a>.</p>
-					<p class="mt-4"><strong>Install Molly via F-Droid</strong></p>
-					<p>1. Open <a href="fdroidrepos://molly.im/fdroid/repo?fingerprint=3B7E93B1FE32C6E35A93D6DDFC5AFBEB1239A7C6EA6AF20FF33ED53CDC38B04A"
-						 rel="noreferrer">this
-							link</a>
-						on your mobile device, or scan the QR code.</p>
-					<p>The link should open in the F-Droid app.</p>
-					<p>2. When the <strong>Add new repository</strong> screen appears, click <strong>Add</strong>.</p>
-					<p><img class="border" src="img/fdroid-add-repo.png" alt="Add repo" /></p>
-					<p>3. F-Droid will update the list of available apps. When it finishes,
-						search for <strong>Molly</strong>.</p>
-					<p><img class="border" src="img/fdroid-search-results.png" alt="Search for Molly" /></p>
+		<div class="pt-5 pb-2">
+			<img src="img/fdroid-logo.png" alt="F-Droid" />
+			<p class="mt-4"><strong>Use F-Droid to install apps and ensure access to app updates</strong></p>
+			<p>
+				F-Droid is an independent, community-sourced app store.
+				Adding a repository to F-Droid makes the apps within it available for download
+				and ensures that you have access to secure app updates.
+			</p>
+			<p>Download F-Droid at <a href="https://f-droid.org">f-droid.org</a>.</p>
+		</div>
+
+		<div id="accordion">
+
+			<div class="card">
+				<div class="card-header" id="headingOne">
+					<h5 class="mb-0">
+						<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+							<i class="fa fa-chevron-down pull-right"></i>
+							Install Molly via F-Droid
+						</button>
+					</h5>
+				</div>
+				<div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+					<div class="card-body px-5">
+						<p>1. Open <a href="fdroidrepos://molly.im/fdroid/repo?fingerprint=3B7E93B1FE32C6E35A93D6DDFC5AFBEB1239A7C6EA6AF20FF33ED53CDC38B04A"
+							rel="noreferrer">this link</a>
+								on your mobile device, or scan the <strong>QR code</strong> below. It should open the F-Droid app.
+						</p>
+						<a href="https://molly.im/fdroid/repo?fingerprint=3B7E93B1FE32C6E35A93D6DDFC5AFBEB1239A7C6EA6AF20FF33ED53CDC38B04A">
+							<figure class="figure mr-4">
+								<img src="img/qrcode.png" alt="">
+								<figcaption class="figure-caption text-center">https://molly.im/fdroid/repo</figcaption>
+							</figure>
+						</a>
+						<p>2. When the <strong>Add new repository</strong> screen appears, click <strong>Add</strong>.</p>
+						<p><img class="border" src="img/fdroid-add-repo.png" alt="Add repo" /></p>
+						<p>3. F-Droid will update the list of available apps. When it finishes, search for <strong>Molly</strong> and install it.</p>
+					</div>
 				</div>
 			</div>
+
+			<div class="card">
+				<div class="card-header" id="headingTwo">
+					<h5 class="mb-0">
+						<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+							<i class="fa"></i>
+							Install Molly-FOSS via F-Droid
+						</button>
+					</h5>
+				</div>
+				<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+					<div class="card-body px-5">
+						<p>1. Open <a href="fdroidrepos://molly.im/fdroid/foss/repo?fingerprint=5198DAEF37FC23C14D5EE32305B2AF45787BD7DF2034DE33AD302BDB3446DF74"
+							rel="noreferrer">this link</a>
+								on your mobile device, or scan the <strong>QR code</strong> below. It should open the F-Droid app.
+						</p>
+						<a href="https://molly.im/fdroid/foss/repo?fingerprint=5198DAEF37FC23C14D5EE32305B2AF45787BD7DF2034DE33AD302BDB3446DF74">
+							<figure class="figure mr-4">
+								<img src="img/foss/qrcode.png" alt="">
+								<figcaption class="figure-caption text-center">https://molly.im/fdroid/foss/repo</figcaption>
+							</figure>
+						</a>
+						<p>2. When the <strong>Add new repository</strong> screen appears, click <strong>Add</strong>.</p>
+						<p>3. F-Droid will update the list of available apps. When it finishes, search for <strong>Molly</strong> and install it.</p>
+					</div>
+				</div>
+			</div>
+
 		</div>
 	</div>
+
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+	<!-- <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script> -->
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 </body>
 
 </html>
