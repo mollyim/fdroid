@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1626560228000,
+    "timestamp": 1626712396000,
     "version": 21,
     "name": "Molly F-Droid Repo (FOSS)",
     "icon": "molly-icon.png",
@@ -21,25 +21,28 @@
         "Security"
       ],
       "changelog": "https://github.com/mollyim/mollyim-android/wiki/Changelog",
-      "suggestedVersionCode": "87700",
-      "description": "<p>Molly is a hardened version of Signal for Android, the fast simple yet secure messaging app by Signal Foundation.</p><p>Back in 2018, Signal allowed the user to set a passphrase to secure the local message database. But this option was removed with the introduction of full-disk encryption on Android. Molly brings it back again with additional security features.</p><p>Molly is updated every two weeks to include the latest Signal changes and bug fixes.</p><p>For more information, please visit https://molly.im</p>",
+      "suggestedVersionCode": "87800",
+      "description": "<p>Molly is a hardened version of Signal for Android, the fast simple yet secure messaging app by Signal Foundation.</p><p>Back in 2018, Signal allowed the user to set a passphrase to secure the local message database. But this option was removed with the introduction of file-based encryption on Android. Molly brings it back again with additional security features.</p><p>Molly is updated every two weeks to include the latest features and bug fixes from Signal.</p><p>For more information, please visit https://molly.im</p>",
       "issueTracker": "https://github.com/mollyim/mollyim-android/issues",
       "license": "GPL-3.0-only",
       "name": "Molly",
+      "openCollective": "mollyim",
       "sourceCode": "https://github.com/mollyim/mollyim-android",
       "summary": "A fork of Signal with passphrase lock",
+      "translation": "https://hosted.weblate.org/projects/molly-instant-messenger/",
       "webSite": "https://molly.im",
       "added": 1602633043000,
+      "icon": "im.molly.app.87800.png",
       "packageName": "im.molly.app",
-      "lastUpdated": 1626567381000
+      "lastUpdated": 1626702378000
     }
   ],
   "packages": {
     "im.molly.app": [
       {
-        "added": 1626567381000,
-        "apkName": "im.molly.app_87700.apk",
-        "hash": "145ee5011ecdb1849bff0f1df757bebd6309b85e10fa70ba3274c78bb4599369",
+        "added": 1626702378000,
+        "apkName": "im.molly.app_87800.apk",
+        "hash": "850b63c433ddb999eba08c880a15685ebae0a61262618265659f3fc9ab7dd93d",
         "hashType": "sha256",
         "minSdkVersion": 19,
         "nativecode": [
@@ -50,7 +53,7 @@
         "packageName": "im.molly.app",
         "sig": "ce4c0d0281acf793b71cd806740eb1c2",
         "signer": "6aa80fdf4a8cc13737cfb434fc0cde486f09cf8fcda21a67bea5ee1ca2700886",
-        "size": 55258328,
+        "size": 55345747,
         "targetSdkVersion": 30,
         "uses-permission": [
           [
@@ -290,8 +293,8 @@
             null
           ]
         ],
-        "versionCode": 87700,
-        "versionName": "v5.16.3-1-FOSS"
+        "versionCode": 87800,
+        "versionName": "v5.16.3-2-FOSS"
       },
       {
         "added": 1624292355000,
