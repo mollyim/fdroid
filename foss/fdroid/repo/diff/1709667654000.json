@@ -1,23 +1,25 @@
 {
   "repo": {
-    "timestamp": 1709820446000
+    "timestamp": 1710780690000
   },
   "packages": {
     "im.molly.app": {
+      "metadata": {
+        "lastUpdated": 1710784183000,
+        "icon": {
+          "en-US": {
+            "name": "/icons/im.molly.app.139901.png"
+          }
+        }
+      },
       "versions": {
         "8fc0a18cc1540824b6e56a1a1b636df80acc449c228c1da1fd60e7467fa1ed5f": null,
-        "7e03034d65c09fa575d0f177587e298232457010814507768915107127cb15dc": {
-          "releaseChannels": null
-        },
-        "f001746892806f9b0c746850855f6808e59dc4169a50e76ee3370776825746ba": {
-          "releaseChannels": null
-        },
-        "5410406307944ae32a997b0373c40bc7059590bb73f21124feaa1d5a1dde60fa": {
-          "added": 1708464577000,
+        "bd79f73c87c2227b7a4fc066d64210b39b0b93e09a216a27faf8ffd1d12b5342": {
+          "added": 1710784183000,
           "file": {
-            "name": "/im.molly.app_139401.apk",
-            "sha256": "5410406307944ae32a997b0373c40bc7059590bb73f21124feaa1d5a1dde60fa",
-            "size": 71502831
+            "name": "/im.molly.app_139901.apk",
+            "sha256": "bd79f73c87c2227b7a4fc066d64210b39b0b93e09a216a27faf8ffd1d12b5342",
+            "size": 73404303
           },
           "manifest": {
             "nativecode": [
@@ -25,8 +27,8 @@
               "armeabi-v7a",
               "x86_64"
             ],
-            "versionName": "v7.0.0-1-FOSS",
-            "versionCode": 139401,
+            "versionName": "v7.1.2-1-FOSS",
+            "versionCode": 139901,
             "usesSdk": {
               "minSdkVersion": 24,
               "targetSdkVersion": 33
@@ -243,7 +245,16 @@
                 "name": "me.everything.badger.permission.BADGE_COUNT_WRITE"
               }
             ]
-          }
+          },
+          "releaseChannels": [
+            "Beta"
+          ]
+        },
+        "7e03034d65c09fa575d0f177587e298232457010814507768915107127cb15dc": {
+          "releaseChannels": null
+        },
+        "f001746892806f9b0c746850855f6808e59dc4169a50e76ee3370776825746ba": {
+          "releaseChannels": null
         }
       }
     },
