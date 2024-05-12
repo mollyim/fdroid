@@ -14,7 +14,7 @@
       }
     },
     "address": "https://molly.im/fdroid/repo",
-    "timestamp": 1715388751000
+    "timestamp": 1715501349000
   },
   "packages": {
     "im.molly.app": {
@@ -273,10 +273,7 @@
                 "name": "me.everything.badger.permission.BADGE_COUNT_WRITE"
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "4028779dd9f994a63b5b367443c51a07b401bd174a7957ef4e1821a1859095f4": {
           "added": 1715379979000,
@@ -497,10 +494,7 @@
                 "name": "me.everything.badger.permission.BADGE_COUNT_WRITE"
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "9490bb69e5669acc0b5339268f73438c14855758230d7f6e9f9800df22480f08": {
           "added": 1713541172000,
