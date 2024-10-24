@@ -14,7 +14,7 @@
       }
     },
     "address": "https://molly.im/fdroid/repo",
-    "timestamp": 1729792915000
+    "timestamp": 1729810061000
   },
   "packages": {
     "im.molly.app": {
@@ -288,10 +288,7 @@
                 "name": "me.everything.badger.permission.BADGE_COUNT_WRITE"
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "ade0b4e5b14c53869fd8a538309c97589744b44470df26bd8d66b637e11bbddd": {
           "added": 1727910664000,
