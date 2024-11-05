@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1730820057000
+  },
+  "packages": {
+    "im.molly.app": {
+      "versions": {
+        "a3a1e7bba80b6b687102400652c6d708f31505502843ac290468db109729c504": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}

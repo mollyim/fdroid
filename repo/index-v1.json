@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1730763157000,
+    "timestamp": 1730820188000,
     "version": 20002,
     "name": "Molly F-Droid Repo",
     "icon": "molly-icon.png",
@@ -21,8 +21,8 @@
         "Security"
       ],
       "changelog": "https://github.com/mollyim/mollyim-android/wiki/Changelog",
-      "suggestedVersionName": "v7.21.5-2",
-      "suggestedVersionCode": "147602",
+      "suggestedVersionName": "v7.22.2-1",
+      "suggestedVersionCode": "147902",
       "description": "Molly is a security-focused, enhanced version of Signal for Android users. It offers additional features while connecting to Signal's messaging servers.\n\nMolly brings back passphrase protection for your local message database and includes unique features like multi-device support, and more. Choose between Molly or Molly-FOSS, both free and open-source options with or without proprietary blobs, depending on your preferences. Molly improves the stock Signal app without compromising security and is fully reproducible.\n\n<Strong>Key Features:</Strong>\n\n- Data encryption at rest: Safeguard your message database with robust passphrase encryption.\n- Secure RAM wiper: Securely erase sensitive data from device memory.\n- Automatic app lock: Lock the app under specific conditions for added security.\n- Multi-device support: Link multiple devices, including Android tablets, to a single account.\n- Block unknown contacts: Prevent messages and calls from unknown senders for security and anti-spam.\n- Disappearing call history: Clear call notifications along with expiring messages.\n- Optional debug logs: Disable Android logging for privacy.\n- Custom backup scheduling: Choose daily or weekly intervals and the number of backups to retain.\n- SOCKS proxy and Tor support: Route app network traffic via proxy and Orbot.\n\nFor updates, news, and support, follow @mollyim@fosstodon.org. Submit bugs and feature requests on the project's GitHub page.\n",
       "issueTracker": "https://github.com/mollyim/mollyim-android/issues",
       "license": "AGPL-3.0-only",
