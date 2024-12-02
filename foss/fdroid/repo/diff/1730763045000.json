@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1733060672000
+    "timestamp": 1733171429000
   },
   "packages": {
     "im.molly.app": {
@@ -248,10 +248,7 @@
                 "name": "me.everything.badger.permission.BADGE_COUNT_WRITE"
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "a3a1e7bba80b6b687102400652c6d708f31505502843ac290468db109729c504": {
           "releaseChannels": null
