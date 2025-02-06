@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1738710961000,
+    "timestamp": 1738837194000,
     "categories": {
       "Connectivity": {
         "name": {
@@ -276,10 +276,7 @@
                 "name": "android.permission.READ_EXTERNAL_STORAGE"
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "434d29fd1b25f809ffbef2931f638c2164a11b75aab0acf1fc112c810c49db14": {
           "added": 1737048527000,
