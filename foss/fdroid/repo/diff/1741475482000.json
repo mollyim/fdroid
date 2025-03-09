@@ -1,0 +1,25 @@
+{
+  "repo": {
+    "timestamp": 1741481277000
+  },
+  "packages": {
+    "im.molly.app": {
+      "metadata": {
+        "added": 1737048527000,
+        "lastUpdated": 1741481255000,
+        "icon": {
+          "en-US": {
+            "name": "/im.molly.app/en-US/icon_WyRhh4LflwrHwBMVkVYgNY6P2u3QFYmf6PtB3dqgzl4=.png",
+            "sha256": "5b24618782df970ac7c01315915620358e8fdaedd015899fe8fb41dddaa0ce5e",
+            "size": 50565
+          }
+        }
+      },
+      "versions": {
+        "255d2c7dd4aa1c45a6a8f4fd1355ddd394627cf9c338adfa524b4ecbfb85a3de": {
+          "added": 1741481255000
+        }
+      }
+    }
+  }
+}
