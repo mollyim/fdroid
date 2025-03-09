@@ -14,7 +14,7 @@
       }
     },
     "address": "https://molly.im/fdroid/repo",
-    "timestamp": 1741481336000,
+    "timestamp": 1741555310000,
     "categories": {
       "Connectivity": {
         "name": {
@@ -319,10 +319,7 @@
                 "name": "android.permission.READ_EXTERNAL_STORAGE"
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "a393ee83dc9b145f3646526ad6558217d9491fe8b20d54f7c7e0504240594d11": {
           "added": 1740143290000,

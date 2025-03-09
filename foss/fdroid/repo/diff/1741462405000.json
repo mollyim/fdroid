@@ -6,7 +6,7 @@
         "size": 230239
       }
     },
-    "timestamp": 1741481277000
+    "timestamp": 1741555279000
   },
   "packages": {
     "im.molly.app": {
@@ -23,6 +23,7 @@
       },
       "versions": {
         "255d2c7dd4aa1c45a6a8f4fd1355ddd394627cf9c338adfa524b4ecbfb85a3de": {
+          "releaseChannels": null,
           "added": 1741481255000
         }
       }
