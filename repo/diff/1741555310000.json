@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1744645166000
+    "timestamp": 1744709151000
   },
   "packages": {
     "im.molly.app": {
@@ -252,10 +252,7 @@
                 "name": "android.permission.READ_EXTERNAL_STORAGE"
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         }
       }
     }
