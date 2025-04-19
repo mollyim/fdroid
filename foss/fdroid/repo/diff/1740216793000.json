@@ -6,7 +6,7 @@
         "size": 230239
       }
     },
-    "timestamp": 1745027177000
+    "timestamp": 1745083731000
   },
   "packages": {
     "im.molly.app": {
@@ -262,10 +262,7 @@
                 "name": "android.permission.READ_EXTERNAL_STORAGE"
               }
             ]
-          },
-          "releaseChannels": [
-            "Beta"
-          ]
+          }
         },
         "352ed3b073df5dd70acc8fd2f515b593928818b2bb8ab49cecac5765bd36e6ee": {
           "added": 1744645118000,
