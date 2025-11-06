@@ -1,0 +1,17 @@
+Mae Molly yn fersiwn ddiogelwch-ganolog, well o Signal ar gyfer defnyddwyr Android. Mae'n cynnig nodweddion ychwanegol wrth gysylltu â gweinyddion negesu Signal.
+
+Mae Molly yn dychwelyd diogelu cyfrinair ar gyfer eich cronfa ddata negeseuon leol ac yn cynnwys nodweddion unigryw fel cefnogaeth aml-gyfarpar, ac ati. Dewiswch rhwng Molly neu Molly-FOSS, y ddau opsiwn am ddim ac agored, gyda neu heb gydrannau perchnogol yn ôl eich dewis. Mae Molly yn gwella'r app Signal safonol heb gyfaddawdu ar ddiogelwch ac mae'n gwbl ailgynhyrchiadwy.
+
+<Strong>Nodweddion Allweddol:</Strong>
+
+- Amgryptio data wrth orffwys: Diogelwch eich cronfa ddata negeseuon gyda chyfrinair cryf.
+- Glanhawyr RAM diogel: Dileu data sensitif yn ddiogel o gof y ddyfais.
+- Clo app awtomatig: Cloi'r app o dan amodau penodol am ddiogelwch ychwanegol.
+- Cefnogaeth aml-gyfarpar: Cysylltwch sawl dyfais, gan gynnwys tabledi Android, i un cyfrif.
+- Blocio cysylltiadau anhysbys: Atal negeseuon a galwadau gan anfonwyr anhysbys.
+- Hanes galwadau diflannu: Clirio hysbysiadau galwadau gyda negeseuon sy'n darfod.
+- Logiau dadfygio dewisol: Analluoga gofnodi Android er mwyn preifatrwydd.
+- Amserlennu copi wrth gefn wedi'i deilwra: Dewiswch rhwng cyfnodau dyddiol neu wythnosol a nifer y copïau i'w cadw.
+- Cefnogaeth SOCKS proxy a Tor: Llwybro traffig rhwydwaith yr app trwy proxy ac Orbot.
+
+Am ddiweddariadau, newyddion a chefnogaeth, dilynwch @mollyim@fosstodon.org. Cyflwynwch wallau a cheisiadau nodwedd ar dudalen GitHub y prosiect.

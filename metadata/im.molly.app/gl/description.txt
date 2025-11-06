@@ -1,0 +1,17 @@
+Molly é unha versión mellorada de Signal centrada na seguridade para usuarios de Android. Ofrece funcións adicionais mentres se conecta aos servidores de mensaxería de Signal.
+
+Molly devolve a protección mediante contrasinal para a túa base de datos de mensaxes local e inclúe funcións únicas como soporte multi-dispositivo e máis. Elixe entre Molly ou Molly-FOSS, ambas opcións libres e de código aberto, con ou sen compoñentes propietarios, segundo as túas preferencias. Molly mellora a aplicación Signal sen comprometer a seguridade e é completamente reproducible.
+
+<Strong>Características principais:</Strong>
+
+- Cifrado de datos en repouso: Protexe a túa base de datos de mensaxes cun cifrado robusto mediante contrasinal.
+- Limpeza segura de RAM: Borra de forma segura datos sensibles da memoria do dispositivo.
+- Bloqueo automático da aplicación: Bloquea a aplicación en condicións específicas para maior seguridade.
+- Soporte multi-dispositivo: Enlaza varios dispositivos, incluíndo tablets Android, a unha única conta.
+- Bloquear contactos descoñecidos: Previr mensaxes e chamadas de remitentes descoñecidos.
+- Historial de chamadas efémero: Borra notificacións de chamadas xunto con mensaxes caducadas.
+- Rexistros de depuración opcionais: Desactiva rexistros de Android para maior privacidade.
+- Programación de copias de seguridade personalizada: Escolla intervalos diarios ou semanais e cantas copias conservar.
+- Soporte de proxy SOCKS e Tor: Redirixe o tráfico da aplicación a través dun proxy e Orbot.
+
+Para actualizacións, noticias e soporte, siga @mollyim@fosstodon.org. Envíe erros e solicitudes de funcións na páxina de GitHub do proxecto.

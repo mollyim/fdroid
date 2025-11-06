@@ -1,0 +1,17 @@
+Molly d-itt-ḍefṛu seg Signal i wexdem ɣef Android. Iǧǧa deg-sen s usekcam n Signal, s wudem iḍelli ɣef wayen i d-yellan.
+
+Molly yettḥemmel afus n yissekcam n tazwara tameṭṭut ɣef usekcam n wawal, yesɛa-d afus n tsekka n tmurt-nniḍen, am tazwara n wifaten ɣef tseddawt n tmurt, akked wayen i d-yellan. Sekcem di Molly neɣ Molly-FOSS, yellan ddaw n wayen amezwaru, d-ufus n wakken ad tesɛa.
+
+<Strong>Ayyen n wudem:</Strong>
+
+- Tazwara n usekcam yellan deg-s: Ssal wayen i d-yeqqar afus n usekcam.
+- Ttettan n RAM amezwaru: Sslay wayen i d-yeqqar deg memory n tilas.
+- Aselkim n app s wudem: Ssellkem app deg usekcam n tḥemmat.
+- Tesɛa n tmurt n wudem: Sekcem d tmurt amaynut, am Android tablets, s akken ad tesɛa deg iḥedran.
+- Sselkem lqelq n uḍen n teqbel: Ad tḥemmel uggar n iḥedran n win ur yettwasnen s yisem neɣ s wawal.
+- Ttettan n agdud n wawal: Sslay tura-nniḍen s usekcam n wawal yettesɛa.
+- Daws n debug: Semḥi Android logging s wudem n usekcam.
+- Tazwara n backup: Sekcem daily neɣ weekly akked amḍiq n backups i d-yesɛa.
+- SOCKS proxy akked Tor: Ssellkem tura n app s proxy neɣ Orbot.
+
+Ad d-tneddem, ad d-ttḥemmel, akked ad ttwaliḍ, sled @mollyim@fosstodon.org. Sefɣed bugs akked wayen i d-yesɛa di GitHub n projet.

@@ -1,0 +1,17 @@
+Molly er öruggðarvænt, bætt útgáfa af Signal fyrir Android notendur. Hún býður upp á aukna eiginleika á meðan hún tengist skilaboðamiðlara Signal.
+
+Molly kemur aftur með lykilorðavörn fyrir staðbundna skilaboðagagnagrunninn þinn og inniheldur einstaka eiginleika eins og stuðning við marga tæki, og fleira. Veldu á milli Molly eða Molly-FOSS, bæði ókeypis og opinn hugbúnaður, með eða án eignarhluta, eftir þínum óskum. Molly bætir við grunn Signal appinu án þess að fórna öryggi og er fullkomlega endurgeranlegt.
+
+<Strong>Helstu eiginleikar:</Strong>
+
+- Dulkóðun gagna í hvíld: Verndaðu skilaboðagagnagrunninn þinn með sterkri lykilorðadulkóðun.
+- Örugg RAM-eyðing: Eyða viðkvæmum gögnum úr minni tækisins á öruggan hátt.
+- Sjálfvirk læsing á appi: Læstu appinu við ákveðnar aðstæður til að auka öryggi.
+- Stuðningur við marga tæki: Tengdu mörg tæki, þar á meðal Android spjaldtölvur, við einn aðgang.
+- Lokaðu ókunnugum tengiliðum: Komdu í veg fyrir skilaboð og símtöl frá ókunnugum sendendum.
+- Hvarfandi símtalasaga: Hreinsaðu símtala tilkynningar ásamt útrunnnum skilaboðum.
+- Valfrjálsir villudagbækur: Slökktu á Android logging fyrir persónuvernd.
+- Sérsniðin öryggisafrit: Veldu daglega eða vikulega bil og fjölda afrita sem á að halda.
+- SOCKS proxy og Tor stuðningur: Sendu netumferð appsins í gegnum proxy og Orbot.
+
+Fyrir uppfærslur, fréttir og stuðning, fylgdu @mollyim@fosstodon.org. Sendu inn villur og eiginleikabeiðnir á GitHub síðu verkefnisins.
