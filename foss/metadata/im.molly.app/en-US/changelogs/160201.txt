@@ -1,3 +1,0 @@
-New in version v7.53.5-1
-- Fixed: use proper feature flag to show backup megaphone (#569)
-- Merged: Signal 7.53.5
