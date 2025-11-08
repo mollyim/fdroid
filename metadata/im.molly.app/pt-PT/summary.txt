@@ -1,0 +1,1 @@
+Fork melhorado e focado na segurança do Signal

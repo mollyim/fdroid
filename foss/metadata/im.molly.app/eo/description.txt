@@ -1,0 +1,17 @@
+Molly estas sekurec-orientita, plibonigita versio de Signal por Android-uzantoj. Ĝi ofertas aldonajn funkciojn konektiĝante al la mesaĝaj serviloj de Signal.
+
+Molly revenigas pasfrazo-protekton por via loka mesaĝa datumbazo kaj inkluzivas unikajn funkciojn kiel plur-aparatan subtenon kaj pli. Elektu inter Molly aŭ Molly-FOSS, ambaŭ senpagaj kaj malfermitkodaj opcioj kun aŭ sen proprietaj komponantoj, depende de viaj preferoj. Molly plibonigas la defaŭltan Signal-aplikaĵon sen kompromiti sekurecon kaj estas plene reproduktebla.
+
+<Strong>Ĉefaj trajtoj:</Strong>
+
+- Datumĉifrado en ripozo: Protektu vian mesaĝan datumbazon per forta pasfrazo-ĉifrado.
+- Sekura RAM-purigilo: Sekure forigas sentemajn datumojn el la memoro de la aparato.
+- Aŭtomata aplikaĵ-seruro: Ŝlosas la apon sub specifaj kondiĉoj por plia sekureco.
+- Plur-aparata subteno: Ligu plurajn aparatojn, inkluzive de Android-tabuletoj, al ununura konto.
+- Bloku nekonatajn kontaktojn: Malhelpas mesaĝojn kaj vokojn de nekonataj sendintoj.
+- Malaperanta vokhistorio: Viŝas vokavizojn kune kun forpasantaj mesaĝoj.
+- Laŭvolaj sencimigaj protokoloj: Malaktivigu la registradon de Android por privateco.
+- Propra sekurkopiado: Elektu ĉiutagajn aŭ semajnajn intervalojn kaj la nombron da sekurkopioj por konservi.
+- Subteno por SOCKS-prokurilo kaj Tor: Direktu la rettrafikon de la apo tra prokurilo kaj Orbot.
+
+Por ĝisdatigoj, novaĵoj kaj subteno, sekvu @mollyim@fosstodon.org. Sendu erarojn kaj trajtopetojn en la GitHub-paĝo de la projekto.

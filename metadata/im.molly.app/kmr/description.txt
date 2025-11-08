@@ -1,0 +1,17 @@
+Molly, bo Android bikarhênan xweser, guhertoyeke Signal e ku li ser ewlehiya fokus dike. Ew di heman demê de li serverên mesajê Signal tê girêdan û taybetmendiyên zêde pêşkêş dike.
+
+Molly parastina şîfreya database-a peyamên xwe yên herêmî vegerîye û taybetmendiyên taybet wek piştgirîya pir-amezî û zêdetir pêk tîne. Di nav Molly an Molly-FOSS de hilbijêrin, her du yekan xweser û vekirî ne, bi an bê çîpên xwerû, li gorî xwestinê. Molly sepana Signal-ê bi ewlehiya xwe ne xuyakirin û bi temamî dibe reproducible.
+
+<Strong>Taybetmendiyên Serekî:</Strong>
+
+- Şîfreya daneyê li cîh: Database-a peyamên xwe bi şîfreya hêzdar parastin.
+- RAM-wiper ewlek: Daneyên girîng ji bîrê derve ji RAM-ê bê ewlekî jêbirin.
+- App lock automatîk: App-ê di mercên taybet de bikişîne bo ewlehiya zêde.
+- Piştgirîya pir-amezî: Pir amezî wek Android tablets bi hesabek yek girêdan.
+- Block kirina têkiliyên nasnayî: Peyam û bang ji şandeyên nasnayî derxistin bo ewlehiya spam-ê.
+- Dîroka bangên ku tê deqel dibe: Notifikasyonên bang û peyamên ku qediya bi hev jêbirin.
+- Debug log-ên opsiyonel: Logging-a Android jêbirin bo taybetî.
+- Rêjeya backup-a xweser: Li ser rêjeyên rojane an hefteyan û hejmarek backup-ên ku hîn bikin hilbijêrin.
+- SOCKS proxy û piştgirîya Tor: Traffic-a network-ê ya app-ê bi proxy an Orbot ve reroute bikin.
+
+Bo nûvekirin, nûçeyan û piştgirî, @mollyim@fosstodon.org li benda xwe bikin. Bugs û daxwazên taybet di rûpela GitHub ya projet de binivîsin.

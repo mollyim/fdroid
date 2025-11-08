@@ -1,0 +1,1 @@
+Versió FOSS de la bifurcació millorada i centrada en la seguretat de Signal
