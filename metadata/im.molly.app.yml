@@ -3,3 +3,11 @@ WebSite: https://molly.im
 SourceCode: https://github.com/mollyim/mollyim-android
 IssueTracker: https://github.com/mollyim/mollyim-android/issues
 Changelog: https://github.com/mollyim/mollyim-android/releases
+
+Builds:
+  - versionName: "7.61.1-3"
+    versionCode: 160301
+  - versionName: "7.63.2-1"
+    versionCode: 161001
+  - versionName: "7.63.3-1"
+    versionCode: 161101
