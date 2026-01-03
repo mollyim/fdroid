@@ -1,0 +1,18 @@
+Molly သည် Android အသုံးပြုသူများအတွက် Signal ၏ လုံခြုံမှု ဦးတည်ထားသည့် မြှင့်တင်ထားသော ဗားရှင်းဖြစ်သည်။ အခမဲ့၊ open-source ဖြစ်ပြီး မည်သည့် ပိုင်ဆိုင်မှု software မပါပါ။ Signal ၏ စာတိုပို့ခြင်း server များနှင့် ချိတ်ဆက်နေစဉ် အပိုဆောင်း function များကို ပံ့ပိုးပေးသည်။  
+
+Molly သည် သင့် ဒေသတွင်းစာတို database အတွက် password ကာကွယ်မှုကို ပြန်လည်ထည့်သွင်းပြီး၊ multi-device support ကဲ့သို့ အထူး feature များကိုပါ ပါဝင်ထားသည်။ Molly သည် စံ Signal app ကို လုံခြုံမှုကို ထိခိုက်စေခြင်းမရှိဘဲ မြှင့်တင်ပေးပြီး၊ ပြန်လည်ဖန်တီးနိုင်သည်။  
+
+<Strong>အဓိက feature များ:</Strong>
+
+- အနေအထားတွင် data encrypt လုပ်ခြင်း: သင့် message database ကို အင်အားကြီးသော password encryption ဖြင့် ကာကွယ်ပါ။  
+- လုံခြုံသော RAM ဖျက်စက်ကိရိယာ: စက်မှတ်ဌာနမှ အချက်အလက် အရေးကြီးများကို လုံခြုံစွာ ဖျက်ပါ။  
+- အလိုအလျောက် app lock: လုံခြုံမှု တိုးမြှင့်ရန် သတ်မှတ်ထားသော အခြေအနေများတွင် app ကို lock လုပ်ပါ။  
+- multi-device support: Android tablet များအပါအဝင် အများစွာ device များကို တစ်ခုသော account နှင့် ချိတ်ဆက်ပါ။  
+- မသိ contact များကို အပိတ်: လုံခြုံမှုနှင့် anti-spam အတွက် မသိသူများမှ messages နှင့် calls မရောက်အောင် ကာကွယ်ပါ။  
+- ပျောက်ဆုံးသွားသော call history: သက်တမ်းကုန်ဆုံးသော messages နှင့်အတူ call notification များကို ဖယ်ရှားပါ။  
+- ရွေးချယ်စရာ debug logs: privacy အတွက် Android logging ကို ပိတ်ပါ။  
+- အထူး backup စီမံချိန်ဇယား: နေ့စဉ် သို့မဟုတ် အပတ်စဉ် အကွာအဝေးများနှင့် သိမ်းဆည်းမည့် backup အရေအတွက်ကို ရွေးပါ။  
+- SOCKS proxy နှင့် Tor support: proxy နှင့် Orbot မှတဆင့် app network traffic ကို လမ်းညွှန်ပါ။  
+- notifications: FCM, UnifiedPush သို့မဟုတ် websocket ၏ open-source / proprietary-free implementation မှ ရွေးချယ်နိုင်ပါသည်။  
+
+နောက်ဆုံး update များ၊ သတင်းများနှင့် support အတွက် @mollyim@fosstodon.org ကို follow လုပ်ပါ။ Bug များနှင့် feature requests များကို project ၏ GitHub စာမျက်နှာတွင် submit လုပ်ပါ။

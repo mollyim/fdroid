@@ -1,0 +1,18 @@
+Molly ni toleo lililoboreshwa na linalolenga usalama la Signal kwa watumiaji wa Android. Ni bure, chanzo huria (open-source) na bila programu yoyote ya umiliki. Inatoa vipengele vya ziada huku ikijiunganisha na seva za ujumbe za Signal.  
+
+Molly inarejesha ulinzi wa nenosiri kwa hifadhidata yako ya ujumbe wa ndani na inajumuisha vipengele vya kipekee kama msaada wa vifaa vingi, na zaidi. Molly inaboresha programu ya Signal ya kawaida bila kudhoofisha usalama na inaweza kurudiwa kikamilifu.  
+
+<Strong>Vipengele Muhimu:</Strong>
+
+- Usimbaji wa data ukiwa huru: Linda hifadhidata yako ya ujumbe kwa usimbaji thabiti wa nenosiri.  
+- Futa RAM kwa usalama: Futa data nyeti kutoka kwa kumbukumbu ya kifaa kwa usalama.  
+- Kufunga programu kiotomatiki: Funga programu katika hali maalum kwa usalama zaidi.  
+- Msaada wa vifaa vingi: Unganisha vifaa vingi, ikiwemo vidonge vya Android, kwa akaunti moja.  
+- Kuzuia mawasiliano yasiyojulikana: Zuia ujumbe na simu kutoka kwa watumaji wasiojulikana kwa usalama na dhidi ya spam.  
+- Historia ya simu inayofutika: Futa arifa za simu pamoja na ujumbe unaoisha muda wake.  
+- Faili za ukaguzi (debug) hiari: Zima upigaji kumbukumbu (logging) wa Android kwa faragha.  
+- Ratiba ya nakala rudufu iliyobinafsishwa: Chagua vipindi vya kila siku au kila wiki na idadi ya nakala rudufu za kuhifadhi.  
+- Msaada wa SOCKS proxy na Tor: Elekeza trafiki ya mtandao wa programu kupitia proxy na Orbot.  
+- Arifa: Chagua kati ya utekelezaji wa chanzo huria na bila umiliki wa FCM, UnifiedPush au WebSocket.  
+
+Kwa masasisho, habari na msaada, fuata @mollyim@fosstodon.org. Tuma ripoti za kasoro (bugs) na maombi ya vipengele kwenye ukurasa wa GitHub wa mradi.

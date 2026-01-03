@@ -1,0 +1,13 @@
+License: GPL-3.0-only
+WebSite: https://molly.im
+SourceCode: https://github.com/mollyim/mollyim-android
+IssueTracker: https://github.com/mollyim/mollyim-android/issues
+Changelog: https://github.com/mollyim/mollyim-android/releases
+
+Builds:
+  - versionName: "v7.68.5-1"
+    versionCode: 163301
+  - versionName: "v7.66.5-1"
+    versionCode: 162501
+  - versionName: "v7.66.4-1"
+    versionCode: 162401

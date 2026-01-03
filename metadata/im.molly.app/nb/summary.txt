@@ -1,0 +1,1 @@
+Forbedret og sikkerhetsfokusert fork av Signal

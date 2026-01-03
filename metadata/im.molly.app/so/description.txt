@@ -1,0 +1,18 @@
+Molly waa nooc diiradda saaraya amniga, oo horumarsan ee Signal loogu talagalay isticmaalayaasha Android. Bilaash, il furan (open-source) isla markaana aan lahayn software lahaansho gaar ah. Waxay bixisaa sifooyin dheeraad ah iyadoo isku xiranaysa server-yada fariimaha ee Signal.  
+
+Molly waxay dib u soo celisaa ilaalinta erayga sirta ah ee keydka fariimahaaga gudaha waxayna ka mid tahay sifooyin gaar ah sida taageerada qalabka badan iyo waxyaabo kale. Molly waxay hagaajisaa app-ka Signal caadiga ah iyada oo aan khatar lagu gelin amniga, waxaana si buuxda loo soo saari karaa.  
+
+<Strong>Astaamaha Muhiimka ah:</Strong>
+
+- Sirta xogta marka ay nasato: Ilaali keydkaaga fariimaha adigoo adeegsanaya sir xoog leh oo erayga sirta ah.  
+- Tirtir RAM si ammaan ah: Si ammaan ah uga tirtir xogaha xasaasiga ah xasuusta qalabka.  
+- Locking otomaatig ah ee app-ka: Lock app-ka xaalado gaar ah si amni dheeraad ah.  
+- Taageerada qalabka badan: Ku xidh qalabyo badan, oo ay ku jiraan tablet-yada Android, hal akoon.  
+- Xannib xiriirada aan la aqoon: Ka hortag fariimaha iyo wicitaanada ka yimaada dirayaasha aan la aqoon si amni iyo ka hortag spam.  
+- Taariikhda wicitaannada ee tirtirmaysa: Ka tirtir ogeysiisyada wicitaanka iyo fariimaha dhicaya.  
+- Debug logs ikhtiyaari ah: Jooji diiwaangelinta Android si loo ilaaliyo asturnaanta.  
+- Jadwalka kaydinta gaarka ah: Dooro maalinle ama toddobaadle iyo tirada kaydka la hayn doono.  
+- Taageerada SOCKS proxy iyo Tor: Hagaaji taraafikada shabakadda app-ka adoo maraya proxy iyo Orbot.  
+- Ogeysiisyada: Dooro fulinta il furan oo aan lahayn lahaansho gaar ah ee FCM, UnifiedPush, ama WebSocket.  
+
+Si aad u hesho cusbooneysiin, warar iyo taageero, raac @mollyim@fosstodon.org. Soo gudbi bugs iyo codsiyada sifooyinka bogga GitHub ee mashruuca.

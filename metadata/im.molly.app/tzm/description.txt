@@ -1,0 +1,18 @@
+Molly d wergaz i ssuqed tamsa n tmaziɣt, version imzayan n Signal i usefru Android. Iferḥ, open-source, ur yella ara ɣef wawal n usefru n tmellalt. T-sneḍfa isemkanen imaynan mella i d-yennaḍen s server n Signal n tazmert.  
+
+Molly t-kkren assaɣ n passphrase i database n tazmert n wennaɣ, s yisemkanen iman iggiwen am support n imuddan s fraḍ, d win iggiwen. Molly t-beddel Signal standard ur yella ara tmeddu n tmasla n tmsalut, u t-metti d reproducible s uzen.  
+
+<Strong>Aselkim n yisemkanen:</Strong>
+
+- Encryption n data ɣef umid: Asekcem database n tazmert n wennaɣ s passphrase encryption imdaḥen.  
+- RAM wiper i ssuqed: Ssiḍ data n tazmert ɣef memoria n usefru i ssuqed.  
+- Automatic app lock: Ssiḍ app ɣef tukkut tasnawt i ssuqed i tmasla.  
+- Multi-device support: Sefraḍ imuddan s fraḍ, d Android tablets, ɣef account waḥed.  
+- Block unknown contacts: Qbel asayen n yimelmi sserrin ur nezmir, i tmasla d anti-spam.  
+- Disappearing call history: Ssiḍ notifications n ufruɣ s tazmert i d-yekknen.  
+- Optional debug logs: Uɣel logging n Android i ssuqed n wass.  
+- Custom backup scheduling: Sefraḍ interval n ass n ass neɣ n simana, d amḍak n backups i t-ssuḍen.  
+- SOCKS proxy d Tor support: Ssefru traffic n app ɣef network s proxy d Orbot.  
+- Notifications: Sefraḍ seg implementasyon open-source, ur yesɛi ara proprietary, n FCM, UnifiedPush neɣ WebSocket.  
+
+Ar tazult, akhbar, d support, ssuq @mollyim@fosstodon.org. Sserr bugs d talba n yisemkanen ɣef GitHub n projet.

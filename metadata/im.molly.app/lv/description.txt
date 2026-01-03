@@ -1,0 +1,18 @@
+Molly ir uz drošību orientēta, uzlabota Signal versija Android lietotājiem. Bezmaksas, atvērta pirmkoda un bez patentētas programmatūras. Tā piedāvā papildu funkcijas, savienojoties ar Signal ziņojumu serveriem.  
+
+Molly atjauno paroles aizsardzību jūsu lokālajai ziņojumu datu bāzei un ietver unikālas funkcijas, piemēram, daudzierīču atbalstu un vairāk. Molly uzlabo standarta Signal lietotni, nesamazinot drošību, un ir pilnībā reproducējama.  
+
+<Strong>Galvenās funkcijas:</Strong>
+
+- Datu šifrēšana miera stāvoklī: Aizsargājiet savu ziņojumu datu bāzi ar spēcīgu paroles šifrēšanu.  
+- Droša RAM dzēšana: Droši izdzēsiet sensitīvus datus no ierīces atmiņas.  
+- Automātiska lietotnes bloķēšana: Bloķējiet lietotni noteiktos apstākļos papildu drošībai.  
+- Daudzierīču atbalsts: Savienojiet vairākas ierīces, tostarp Android planšetdatorus, ar vienu kontu.  
+- Nezināmu kontaktu bloķēšana: Novērst ziņojumus un zvanus no nezināmiem sūtītājiem drošības un pretspama nolūkos.  
+- Iznīkojoša zvanu vēsture: Notīriet zvanu paziņojumus kopā ar beigušos ziņojumiem.  
+- Pēc izvēles kļūdu žurnāli: Izslēdziet Android žurnālus privātuma aizsardzībai.  
+- Pielāgota rezerves kopiju grafika: Izvēlieties ikdienas vai iknedēļas intervālus un saglabājamo kopiju skaitu.  
+- SOCKS starpniekservera un Tor atbalsts: Novirziet lietotnes tīkla trafiku caur starpniekserveri un Orbot.  
+- Paziņojumi: Izvēlieties starp atvērtā koda, patentu brīvu FCM, UnifiedPush vai WebSocket īstenojumu.  
+
+Lai iegūtu atjauninājumus, jaunākās ziņas un atbalstu, sekojiet @mollyim@fosstodon.org. Ziņojiet par kļūdām un funkciju pieprasījumiem projekta GitHub lapā.

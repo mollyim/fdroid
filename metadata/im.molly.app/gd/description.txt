@@ -1,0 +1,18 @@
+Is e Molly dreach leasaichte, stèidhichte air tèarainteachd de Signal airson luchd-cleachdaidh Android. Tha e an-asgaidh, stòr fosgailte, agus gun bhogsaichean bathar-bog seilbh. Tha e a’ tabhann feartan a bharrachd fhad ‘s a tha e ceangailte ri frithealaichean teachdaireachd Signal.
+
+Tha Molly a’ toirt dìon facal-faire air ais don bhun-stòr teachdaireachd ionadail agad agus tha feartan sònraichte ann leithid taic ioma-innealan, agus barrachd. Tha Molly a’ leasachadh aplacaid àbhaisteach Signal gun a bhith a’ cur cunnart air tèarainteachd agus tha e gu tur ath-chruthaichte.
+
+<Strong>Feartan Prìomhach:</Strong>
+
+- Crioptachadh dàta rè fois: Dìon do bhun-stòr teachdaireachd le crioptachadh làidir le facal-faire.
+- Glanadh RAM sàbhailte: Thoir air falbh dàta mothachail bhon chuimhne inneal gu sàbhailte.
+- Lock fèin-ghluasadach aplacaid: Dèan glaodhadh air an aplacaid fo shuidheachaidhean sònraichte airson tèarainteachd a bharrachd.
+- Taic ioma-innealan: Ceangail grunn innealan, nam measg tablaidean Android, ri aon chunntas.
+- Bacadh conaltraidhean neo-aithnichte: Cuir casg air teachdaireachdan agus gairmean bho luchd-fastaidh neo-aithnichte airson adhbharan tèarainteachd agus anti-spam.
+- Eachdraidh gairmean a’ falbh: Glan brathan gairme còmhla ri teachdaireachdan a tha a’ dol à bith.
+- Logaichean debug roghainneil: Cuir dheth logadh Android airson prìobhaideachd.
+- Clàradh cùl-taic gnàthaichte: Tagh eadar amannan làitheil no seachdainail agus an àireamh de chùl-taic ri chumail.
+- Taic SOCKS proxy agus Tor: Stiùir trafaic lìonra na h-aplacaid tro phròcs agus Orbot.
+- Brathan: Tagh eadar cur an gnìomh stòr fosgailte, gun bhogsaichean seilbh de FCM, UnifiedPush no websocket.
+
+Airson ùrachaidhean, naidheachdan agus taic, lean @mollyim@fosstodon.org. Cuir fios air bugs agus iarrtasan feartan air duilleag GitHub a’ phròiseict.

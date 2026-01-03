@@ -1,0 +1,18 @@
+Molly je varnostno usmerjena, izboljšana različica Signala za uporabnike Androida. Brezplačna, odprtokodna in brez lastniške programske opreme. Ponuja dodatne funkcije, hkrati pa se povezuje s Signalovimi strežniki za sporočila.  
+
+Molly ponovno uvaja zaščito z geslom za vašo lokalno bazo sporočil in vključuje edinstvene funkcije, kot je podpora za več naprav in še več. Molly izboljša standardno Signal aplikacijo, ne da bi ogrozila varnost, in je popolnoma reproducibilna.  
+
+<Strong>Ključne funkcije:</Strong>
+
+- Šifriranje podatkov v mirovanju: Zaščitite svojo bazo sporočil z močnim šifriranjem gesla.  
+- Varno brisanje RAM-a: Varnostno izbrišite občutljive podatke iz pomnilnika naprave.  
+- Samodejna zaklepanje aplikacije: Zaklenite aplikacijo v določenih pogojih za dodatno varnost.  
+- Podpora za več naprav: Povežite več naprav, vključno z Android tablicami, z enim računom.  
+- Blokiranje neznanih stikov: Preprečite sporočila in klice neznanih pošiljateljev za varnost in proti neželeni pošti.  
+- Zgodovina klicev, ki izgine: Odstranite obvestila o klicih skupaj z potečenimi sporočili.  
+- Izbirni debug zapisi: Onemogočite beleženje v Androidu za zasebnost.  
+- Prilagojeno načrtovanje varnostnih kopij: Izberite dnevne ali tedenske intervale in število kopij, ki jih želite obdržati.  
+- Podpora za SOCKS proxy in Tor: Usmerjajte omrežni promet aplikacije preko proxyja in Orbot.  
+- Obvestila: Izberite med odprtokodno, brez lastniške implementacije FCM, UnifiedPush ali WebSocket.  
+
+Za posodobitve, novice in podporo sledite @mollyim@fosstodon.org. Napake in zahteve za funkcije prijavite na GitHub strani projekta.

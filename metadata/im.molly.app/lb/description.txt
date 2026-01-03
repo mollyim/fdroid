@@ -1,0 +1,18 @@
+Molly ass eng verbesserten, op Sécherheet fokusséierten Versioun vun Signal fir Android Benotzer. Gratis, Open-Source an ouni proprietär Software. Et bitt zousätzlech Features, wärend et sech mat den Signal Message Server verbënnt.  
+
+Molly bréngt Passphrase-Schutz fir däi lokalen Message-Datenbank zréck a enthält eenzegaarteg Features wéi Multi-Device Support a méi. Molly verbessert d’Standard Signal App ouni d'Sécherheet ze compromittéieren a ka komplett reproduzéiert ginn.  
+
+<Strong>Haapt Features:</Strong>
+
+- Datenverschlësselung am Rou: Séchere däi Message-Datenbank mat staarker Passphrase-Verschlësselung.  
+- Séchere RAM-Wiper: Sensibel Donnéeën sécher aus dem Gerätespäicher läschen.  
+- Automatescht App-Schéissen: Sperr d’App ënner bestëmmten Konditiounen fir zousätzlech Sécherheet.  
+- Multi-Device Support: Verbënn méi Apparater, inklusiv Android Tablets, mat engem eenzege Kont.  
+- Blockéieren vun onbekannte Kontakter: Verhënnert Messagen a Uruff vun onbekannten Absender fir Sécherheet an Anti-Spam.  
+- Verschwanne Call-History: Kloer Uruff Notifikatiounen zesumme mat oflaafenden Messagen.  
+- Optioun Debug-Logs: Android Logging fir Privatsphär ausschalten.  
+- Custom Backup Schedule: Wielt deeglech oder wöchentlech Intervallen a wéi vill Backups opgehalen ginn.  
+- SOCKS Proxy a Tor Support: Leed App Netzwierk Traffic iwwer Proxy a Orbot.  
+- Notifikatiounen: Wielt tëscht enger Open-Source, proprietär-fräi Implementatioun vu FCM, UnifiedPush oder WebSocket.  
+
+Fir Updates, Neiegkeeten an Support, verfollegt @mollyim@fosstodon.org. Bugs a Feature-Ufro op der GitHub Säit vum Projet aginn.

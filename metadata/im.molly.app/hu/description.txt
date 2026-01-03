@@ -1,0 +1,18 @@
+A Molly a Signal egy biztonságra fókuszált, továbbfejlesztett változata Android felhasználók számára. Ingyenes, nyílt forráskódú és nem tartalmaz tulajdonosi szoftvert. További funkciókat kínál, miközben a Signal üzenetszolgáltató szervereihez csatlakozik.
+
+A Molly visszahozza a jelszóval védett helyi üzenetbázis védelmét, és egyedi funkciókat kínál, például többeszköz-támogatást és még sok mást. A Molly javítja az alapértelmezett Signal alkalmazást anélkül, hogy veszélyeztetné a biztonságot, és teljesen reprodukálható.
+
+<Strong>Főbb jellemzők:</Strong>
+
+- Adatok titkosítása nyugalmi állapotban: Védje üzenetbázisát erős jelszótitkosítással.  
+- Biztonságos RAM-törlés: Törölje biztonságosan az érzékeny adatokat az eszköz memóriájából.  
+- Automatikus alkalmazászár: Zárja le az alkalmazást bizonyos feltételek mellett a fokozott biztonság érdekében.  
+- Többeszköz-támogatás: Kapcsoljon több eszközt, beleértve Android táblagépeket, egyetlen fiókhoz.  
+- Ismeretlen kapcsolatok blokkolása: Megakadályozza az ismeretlen feladótól érkező üzeneteket és hívásokat a biztonság és a spam elleni védelem érdekében.  
+- Elváló híváselőzmények: Törölje a hívásértesítéseket a lejáró üzenetekkel együtt.  
+- Opcionális hibakeresési naplók: Tiltsa le az Android naplózást a magánélet védelmében.  
+- Egyéni biztonsági mentési ütemezés: Válasszon napi vagy heti időközöket és a megtartandó biztonsági mentések számát.  
+- SOCKS proxy és Tor támogatás: Útirányítsa az alkalmazás hálózati forgalmát proxy és Orbot segítségével.  
+- Értesítések: Válasszon az open-source, tulajdonosi szoftvermentes FCM, UnifiedPush vagy websocket implementációk közül.  
+
+Frissítésekért, hírekért és támogatásért kövesse a @mollyim@fosstodon.org-t. Hibákat és funkciókéréseket a projekt GitHub oldalán küldhet be.  

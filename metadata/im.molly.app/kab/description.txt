@@ -1,0 +1,18 @@
+Molly d tasnawin iḥedran, yettwaslen-d ɣef uselkim n Signal i useqdec Android. Tella aɣilas, open-source, ur yettwali ara s wul n wemdan-iwalen. Ttwafaq-it i tgejdit-nniḍen s wexdem s servers n Signal.  
+
+Molly yettwasleḍ asefru n passphrase i database n wemdan-inek yellan deg uselkim agi, yettusnen-d seg wexdem nniḍen am uselkim multi-device support, akked wayen iḍellan. Molly yesserkem uselkim n Signal amaynut ur yettsefdi ara i uselkim, d-yaṛa-d i tnefk-ed.  
+
+<Strong>Tidett n uselkim:</Strong>
+
+- Ttḥeqqed n data deg yisem: Selkem database n wemdan-inek s ttḥeqqed n passphrase i tḥeqqed.  
+- Wecceḥ RAM s selkem: Selskem data n wul iḥedran seg memoire n useqdec s tazwara.  
+- Lock n uselkim s-automatik: Ṣeqṣeq uselkim deg tmeddurt-iw s uselkim zdat.  
+- Support n multi-device: Selskem win iḥedran, d Android tablets, s yisem n wudem.  
+- Block n contacts ur neɣ ara yeṭṭafen: Ṣeqṣeq wemdan akked tili s yisem ur yettwali ara i wudem d-anti-spam.  
+- Tura n call history: Sselleḍ notifications n calls s wemdan yellan deg time n tella.  
+- Debug logs iḍennan: Sebbeḍ logging n Android i tnefk-ed n tiɣri.  
+- Planification n backup custom: Sereḍ intervals n ussan neɣ n simana akked ɣef ul n backups i d-yeṭṭfen.  
+- SOCKS proxy akked Tor support: Sélectionner traffic n réseau n uselkim s proxy akked Orbot.  
+- Notifications: Sereḍ di implementation n open-source, ur yettwali ara s software proprietary n FCM, UnifiedPush neɣ websocket.  
+
+Iɣewwaṛen n updates, news, akked support, suivi @mollyim@fosstodon.org. Sserreḍ bugs akked requests n features deg GitHub n project.

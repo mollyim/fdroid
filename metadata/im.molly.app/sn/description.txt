@@ -1,0 +1,18 @@
+Molly ishanduro yakasimbiswa, yakavandudzwa yeSignal yevashandisi veAndroid. Mahara, open-source uye isina chero software yepachivande. Inopa mamwe maficha panguva imwe chete ichibatana nemaseva emashoko eSignal.  
+
+Molly inodzorerazve kuchengetedzwa nepassword yedhatabhesi yemashoko epanzvimbo uye inosanganisira maficha akasarudzika akaita sekutsigira midziyo yakawanda, nezvimwe. Molly inovandudza app yeSignal isina kukanganisa kuchengetedzeka uye inogona kudzokororwa zvizere.  
+
+<Strong>Zvimiro Zvikuru:</Strong>
+
+- Encryption yedata pakuzorora: Chengetedza dhatabhesi rako remashoko uchishandisa password yakasimba.  
+- Kuchenesa RAM kwakachengeteka: Bvisa data rakakosha kubva kumemori yemudziyo nenzira yakachengeteka.  
+- Kuvharwa kweapp otomatiki: Vhara app pazvinhu zvakati kuti kuwedzera kuchengetedzeka.  
+- Kutsigira midziyo yakawanda: Batanidza midziyo yakawanda, kusanganisira maAndroid tablets, kune account imwe chete.  
+- Kuvhara vanobata vasina kuzivikanwa: Dzivirira mashoko nemafoni kubva kuvatumiri vasina kuzivikanwa kuchengetedzeka uye anti-spam.  
+- Nhoroondo yemafoni inonyangarika: Bvisa zviziviso zvemafoni pamwe nemashoko apera nguva.  
+- Optional debug logs: Dzima Android logging kuchengetedza zvakavanzika.  
+- Kuronga backup zvakagadzirirwa: Sarudza mainterval emazuva ose kana evhiki uye uwandu hwebackup dzekuchengetedza.  
+- Tsigiro yeSOCKS proxy neTor: Tungamira traffic yeapp network kuburikidza neproxy neOrbot.  
+- Notifications: Sarudza pakati peopen-source, isina proprietary implementation yeFCM, UnifiedPush kana WebSocket.  
+
+Kuti uwane zvigadziriso, nhau uye rubatsiro, tevera @mollyim@fosstodon.org. Tumira bugs uye zvikumbiro zvemaficha papeji reGitHub reprojekiti.

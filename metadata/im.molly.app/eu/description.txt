@@ -1,0 +1,18 @@
+Molly Android erabiltzaileentzat Signal-en segurtasunari arreta handia jartzen dion bertsio hobetua da. Doakoa da, kode irekikoa eta ez du software pribaturik. Funtzionalitate gehigarriak eskaintzen ditu, aldi berean Signal mezularitza zerbitzarietara konektatuta.
+
+Molly-k pasahitz babespena berreskuratzen du zure tokiko mezuen datu-basean eta funtzio bereziak ditu, hala nola gailu anitzeko laguntza, eta gehiago. Molly Signal aplikazio estandarra hobetzen du segurtasuna arriskuan jarri gabe eta guztiz erreprodukziezina da.
+
+<Strong>Ezaugarri nagusiak:</Strong>
+
+- Datuen enkriptatzea atseden egoeran: Babestu zure mezuen datu-basea pasahitz indartsu batekin.
+- RAM segurua ezabatzea: Ezabatu modu seguruan gailuko memoriako datu sentikorrak.
+- Aplikazioaren blokeo automatikoa: Blokeatu aplikazioa baldintza zehatzetan segurtasun gehigarri baterako.
+- Gailu anitzeko laguntza: Lotu gailu anitz, Android tabletak barne, kontu bakar batekin.
+- Ezagutzen ez diren kontaktuak blokeatzea: Saihestu mezuak eta deiak bidaltzaile ezezagunetatik segurtasun eta anti-spam arrazoiak direla eta.
+- Deien historiaren desagerpena: Garbitu dei jakinarazpenak iraungitzen diren mezuekin batera.
+- Debug log aukeragarriak: Desaktibatu Android logak pribatutasunagatik.
+- Babeskopia pertsonalizatuaren programazioa: Aukeratu eguneroko edo asteko tarteak eta gordeko diren babeskopien kopurua.
+- SOCKS proxy eta Tor laguntza: Bideratu aplikazioaren sare trafikoa proxy baten eta Orbot bidez.
+- Jakinarazpenak: Aukeratu kode irekiko, software pribatutik libreko FCM, UnifiedPush edo websocket inplementazioaren artean.
+
+Eguneraketak, berriak eta laguntza jasotzeko, jarraitu @mollyim@fosstodon.org. Bidali akatsen berri eta funtzio eskaerak proiektuaren GitHub orrian.

@@ -1,0 +1,19 @@
+Molly ye una versión meyorada y enfocada na seguridá de Signal pa usuarios d’Android. Gratuíta, de códigu abiertu y sin nengún bloxu de software privativu. Ofre más funciones ensin perder la conexón colos sirvidores de mensaxes de Signal.
+
+Molly vuelve pa protexer la base de datos de mensaxes llocal con una passphrase y inclúi funciones úniques como soportu pa múltiples dispositivos, y más. Molly mejora la aplicación Signal estándar ensin comprometer la seguridá y ye completamente reproducible.
+
+<Strong>Carauterístiques Clave:</Strong>
+
+- Cifrau de datos en reposu: Protexe la to base de datos de mensaxes con cifrau robustu de passphrase.
+- Borraor seguru de RAM: Bóra de mou segur datos sensibles de la memória del dispositivu.
+- Bloqueu automáticu de la aplicación: Bloquea l’aplicación bajo circunstancies específiques pa mayor seguridá.
+- Soportu pa múltiples dispositivos: Enllaza múltiples dispositivos, incluyíos tablets Android, a una sola cuenta.
+- Bloquear contactos desconocíos: Impide mensaxes y llamáes de remites desconocíos por seguridá y anti‑spam.
+- Historial de llamáes que desaparez: Rafauga les notificaciones de llamáes xuntu con los mensaxes que caducan.
+- Llogueros d’error opcionales: Desactiva los registros d’Android por privacidá.
+- Programación personalizada de copias de seguridá: Escueye intervalos diarios o selmanales y cuantes copias de seguridá retener.
+- Soportu de proxu SOCKS y Tor: Dirixe’l tráficu de rede de l’aplicación a través del proxu y Orbot.
+- Notificaciones: Escueye ente una implementación de FCM, UnifiedPush o websocket, de códigu abiertu y ensin software privativu.
+
+Pa actualizaciones, noticies y soportu, sigue @mollyim@fosstodon.org. Envía fallos y solicitudes de carauterístiques a la páxina del proyeutu en GitHub.
+
