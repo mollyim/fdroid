@@ -1,1 +1,0 @@
-Versiunea FOSS a fork-ului Signal îmbunătățit și axat pe securitate

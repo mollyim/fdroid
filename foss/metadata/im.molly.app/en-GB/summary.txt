@@ -1,1 +1,0 @@
-The FOSS version of the enhanced and security-focused fork of Signal

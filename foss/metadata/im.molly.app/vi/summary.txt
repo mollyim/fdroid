@@ -1,1 +1,0 @@
-Phiên bản FOSS của nhánh Signal được cải thiện và tập trung vào bảo mật

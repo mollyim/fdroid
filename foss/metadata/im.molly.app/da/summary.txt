@@ -1,1 +1,0 @@
-FOSS-versionen af den forbedrede og sikkerhedsfokuserede fork af Signal
