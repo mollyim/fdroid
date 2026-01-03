@@ -1,17 +1,18 @@
-Molly adalah versi Signal yang berfokus pada keamanan untuk pengguna Android. Ini menawarkan fitur tambahan sambil terhubung ke server pesan Signal.
+Molly adalah versi Signal yang ditingkatkan dan berfokus pada keamanan untuk pengguna Android. Gratis, open-source, dan tanpa perangkat lunak proprietary. Menyediakan fitur tambahan sambil tetap terhubung ke server pesan Signal.
 
-Molly menghadirkan kembali perlindungan passphrase untuk basis data pesan lokal Anda dan menyertakan fitur unik seperti dukungan multi-perangkat, dan lainnya. Pilih antara Molly atau Molly-FOSS, keduanya gratis dan sumber terbuka, dengan atau tanpa blob proprietary, tergantung preferensi Anda. Molly meningkatkan aplikasi Signal standar tanpa mengorbankan keamanan dan sepenuhnya dapat direproduksi.
+Molly menghadirkan kembali perlindungan dengan passphrase untuk database pesan lokal Anda dan mencakup fitur unik seperti dukungan multi-perangkat, dan lainnya. Molly meningkatkan aplikasi Signal standar tanpa mengorbankan keamanan dan sepenuhnya dapat direproduksi.
 
 <Strong>Fitur Utama:</Strong>
 
-- Enkripsi data saat diam: Lindungi basis data pesan Anda dengan enkripsi passphrase yang kuat.
-- Penghapus RAM aman: Hapus data sensitif dari memori perangkat dengan aman.
-- Kunci aplikasi otomatis: Kunci aplikasi dalam kondisi tertentu untuk keamanan tambahan.
-- Dukungan multi-perangkat: Hubungkan beberapa perangkat, termasuk tablet Android, ke satu akun.
-- Blokir kontak tidak dikenal: Cegah pesan dan panggilan dari pengirim yang tidak dikenal.
-- Riwayat panggilan yang hilang: Hapus notifikasi panggilan bersama pesan yang kedaluwarsa.
-- Log debug opsional: Nonaktifkan logging Android untuk privasi.
-- Penjadwalan cadangan kustom: Pilih interval harian atau mingguan dan jumlah cadangan yang ingin disimpan.
-- Dukungan proxy SOCKS dan Tor: Rute lalu lintas jaringan aplikasi melalui proxy dan Orbot.
+- Enkripsi data saat istirahat: Lindungi database pesan Anda dengan enkripsi passphrase yang kuat.  
+- Penghapus RAM aman: Hapus data sensitif dari memori perangkat dengan aman.  
+- Kunci otomatis aplikasi: Kunci aplikasi dalam kondisi tertentu untuk keamanan tambahan.  
+- Dukungan multi-perangkat: Hubungkan beberapa perangkat, termasuk tablet Android, ke satu akun.  
+- Blokir kontak tidak dikenal: Cegah pesan dan panggilan dari pengirim tidak dikenal untuk keamanan dan anti-spam.  
+- Riwayat panggilan hilang: Bersihkan notifikasi panggilan bersamaan dengan pesan yang kadaluarsa.  
+- Log debug opsional: Nonaktifkan logging Android untuk privasi.  
+- Penjadwalan cadangan kustom: Pilih interval harian atau mingguan dan jumlah cadangan yang disimpan.  
+- Dukungan SOCKS proxy dan Tor: Arahkan lalu lintas jaringan aplikasi melalui proxy dan Orbot.  
+- Notifikasi: Pilih antara implementasi open-source bebas proprietary untuk FCM, UnifiedPush, atau websocket.
 
-Untuk pembaruan, berita, dan dukungan, ikuti @mollyim@fosstodon.org. Kirimkan bug dan permintaan fitur di halaman GitHub proyek.
+Untuk pembaruan, berita, dan dukungan, ikuti @mollyim@fosstodon.org. Laporkan bug dan permintaan fitur di halaman GitHub proyek.

@@ -1,6 +1,6 @@
-Molly is a security-focused, enhanced version of Signal for Android users. It offers additional features while connecting to Signal's messaging servers.
+Molly is a security-focused, enhanced, version of Signal for Android users. Free, open-source and without any proprietary blobs. It offers additional features while connecting to Signal's messaging servers.
 
-Molly brings back passphrase protection for your local message database and includes unique features like multi-device support, and more. Choose between Molly or Molly-FOSS, both free and open-source options with or without proprietary blobs, depending on your preferences. Molly improves the stock Signal app without compromising security and is fully reproducible.
+Molly brings back passphrase protection for your local message database and includes unique features like multi-device support, and more. Molly improves the stock Signal app without compromising security and is fully reproducible.
 
 <Strong>Key Features:</Strong>
 
@@ -13,5 +13,6 @@ Molly brings back passphrase protection for your local message database and incl
 - Optional debug logs: Disable Android logging for privacy.
 - Custom backup scheduling: Choose daily or weekly intervals and the number of backups to retain.
 - SOCKS proxy and Tor support: Route app network traffic via proxy and Orbot.
+- Notifications: Choose between an open-source - proprietary-free implementation of FCM, UnifiedPush or websocket.
 
 For updates, news, and support, follow @mollyim@fosstodon.org. Submit bugs and feature requests on the project's GitHub page.

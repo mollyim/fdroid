@@ -1,17 +1,18 @@
-Molly er en sikkerhetsfokusert, forbedret versjon av Signal for Android-brukere. Den tilbyr ekstra funksjoner samtidig som den kobler til Signals meldingsservere.
+Molly er en sikkerhetsfokusert, forbedret versjon av Signal for Android-brukere. Gratis, åpen kildekode og uten proprietær programvare. Den tilbyr ekstra funksjoner samtidig som den kobler til Signals meldingsservere.  
 
-Molly bringer tilbake passordbeskyttelse for din lokale meldingsdatabase og inkluderer unike funksjoner som støtte for flere enheter, og mer. Velg mellom Molly eller Molly-FOSS, begge gratis og åpen kildekode, med eller uten proprietære komponenter, avhengig av dine preferanser. Molly forbedrer standard Signal-app uten å kompromittere sikkerheten og er fullt reproduserbar.
+Molly bringer tilbake passordbeskyttelse for din lokale meldingsdatabase og inkluderer unike funksjoner som støtte for flere enheter og mer. Molly forbedrer standard Signal-appen uten å kompromittere sikkerheten og er fullt reproduserbar.  
 
 <Strong>Hovedfunksjoner:</Strong>
 
-- Kryptering av data i hvilemodus: Beskytt meldingsdatabasen din med sterk passordkryptering.
-- Sikker RAM-sletter: Slett sensitive data sikkert fra enhetsminnet.
-- Automatisk app-lås: Lås appen under bestemte forhold for ekstra sikkerhet.
-- Støtte for flere enheter: Koble flere enheter, inkludert Android-nettbrett, til en enkelt konto.
-- Blokker ukjente kontakter: Forhindre meldinger og samtaler fra ukjente avsendere.
-- Forbigående samtalehistorikk: Fjern samtalevarsler sammen med utløpte meldinger.
-- Valgfrie debug-logger: Deaktiver Android-logging for personvern.
-- Egendefinert sikkerhetskopieringsplan: Velg daglige eller ukentlige intervaller og antall sikkerhetskopier som skal beholdes.
-- SOCKS-proxy og Tor-støtte: Rut app-nettverkstrafikk via proxy og Orbot.
+- Datakryptering i ro: Beskytt meldingsdatabasen din med sterk passordkryptering.  
+- Sikker RAM-rens: Slett sensitiv data fra enhetsminnet på en sikker måte.  
+- Automatisk applås: Lås appen under spesifikke forhold for ekstra sikkerhet.  
+- Støtte for flere enheter: Koble flere enheter, inkludert Android-nettbrett, til en enkelt konto.  
+- Blokker ukjente kontakter: Forhindre meldinger og samtaler fra ukjente avsendere for sikkerhet og anti-spam.  
+- Forsvinnende samtalehistorikk: Fjern samtalenotifikasjoner sammen med utløpende meldinger.  
+- Valgfrie feillogger: Deaktiver Android-logging for personvern.  
+- Egendefinert backup-plan: Velg daglige eller ukentlige intervaller og antall sikkerhetskopier som skal beholdes.  
+- SOCKS-proxy og Tor-støtte: Rute appens nettverkstrafikk via proxy og Orbot.  
+- Varsler: Velg mellom en åpen kildekode, proprietær-fri implementering av FCM, UnifiedPush eller WebSocket.  
 
 For oppdateringer, nyheter og støtte, følg @mollyim@fosstodon.org. Send inn feil og funksjonsforespørsler på prosjektets GitHub-side.

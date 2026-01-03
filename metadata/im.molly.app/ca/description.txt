@@ -1,17 +1,18 @@
-Molly és una versió millorada de Signal per a usuaris d'Android centrada en la seguretat. Ofereix funcions addicionals mentre es connecta als servidors de missatgeria de Signal.
+Molly és una versió millorada i centrada en la seguretat de Signal per a usuaris d'Android. És gratuïta, de codi obert i sense cap programari propietari. Ofereix funcions addicionals mentre es connecta als servidors de missatgeria de Signal.
 
-Molly recupera la protecció amb contrasenya per a la base de dades local de missatges i inclou funcions úniques com el suport multi-dispositiu i molt més. Tria entre Molly o Molly-FOSS, totes dues opcions lliures i de codi obert, amb o sense components propietaris segons les teves preferències. Molly millora l'aplicació original de Signal sense comprometre la seguretat i és completament reproduïble.
+Molly recupera la protecció amb contrasenya per a la teva base de dades de missatges local i inclou funcions úniques com el suport per a múltiples dispositius, i més. Molly millora l'aplicació Signal estàndard sense comprometre la seguretat i és completament reproducible.
 
-<Strong>Funcions clau:</Strong>
+<Strong>Característiques principals:</Strong>
 
-- Xifratge de dades en repòs: protegeix la base de dades de missatges amb un xifratge robust de contrasenya.
-- Netejador segur de RAM: elimina de manera segura dades sensibles de la memòria del dispositiu.
-- Bloqueig automàtic de l'aplicació: bloqueja l'aplicació en condicions específiques per a més seguretat.
-- Suport multi-dispositiu: connecta diversos dispositius, incloses tauletes Android, a un sol compte.
-- Bloqueig de contactes desconeguts: evita missatges i trucades d'enviadors desconeguts.
-- Historial de trucades que desapareix: esborra notificacions de trucades juntament amb missatges temporals.
-- Registres de depuració opcionals: desactiva els registres d'Android per protegir la privadesa.
-- Programació de còpies de seguretat personalitzada: tria intervals diaris o setmanals i el nombre de còpies a conservar.
-- Compatibilitat amb proxy SOCKS i Tor: canalitza el trànsit de xarxa de l'aplicació a través d'un proxy i Orbot.
+- Xifrat de dades en repòs: Protegeix la teva base de dades de missatges amb xifrat robust amb contrasenya.
+- Neteja segura de RAM: Esborra de manera segura les dades sensibles de la memòria del dispositiu.
+- Bloqueig automàtic de l'aplicació: Bloqueja l'aplicació en condicions específiques per a més seguretat.
+- Suport per a múltiples dispositius: Connecta diversos dispositius, incloent tauletes Android, a un únic compte.
+- Bloqueig de contactes desconeguts: Evita missatges i trucades de remitents desconeguts per motius de seguretat i anti-spam.
+- Historial de trucades que desapareix: Esborra notificacions de trucades juntament amb missatges caducats.
+- Registres de depuració opcionals: Desactiva el registre d'Android per a més privadesa.
+- Programació personalitzada de còpies de seguretat: Tria intervals diaris o setmanals i el nombre de còpies a conservar.
+- Suport SOCKS i Tor: Redirigeix el trànsit de xarxa de l'aplicació a través de proxy i Orbot.
+- Notificacions: Tria entre una implementació de codi obert i sense propietat de FCM, UnifiedPush o websocket.
 
-Per a actualitzacions, notícies i suport, segueix @mollyim@fosstodon.org. Envia errors i sol·licituds de funcions a la pàgina GitHub del projecte.
+Per a actualitzacions, notícies i suport, segueix @mollyim@fosstodon.org. Envia errors i sol·licituds de funcions a la pàgina de GitHub del projecte.

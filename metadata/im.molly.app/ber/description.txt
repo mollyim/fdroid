@@ -1,1 +1,18 @@
-Aɣbalu n Molly i F-Droid, i yesnawen tazzult n tusnaḍt nniḍen deg GitHub di https://github.com/mollyim/mollyim-android/releases.
+Molly d tazwara n Signal i yellan deg usenfuf Android, yettwaḥed ɣef usemṛu s uɛewwi. Iɣerzen, igherzen-nni s usenfuḥ u ur yettwassnen ara s wudmawen n yidles n tmurt. Iγerd ad d-yesɛaḍ afus-nniwin akka ad yettwasel ɣef iserviren n Signal.
+
+Molly yessefk ɣer uselmed n database n ugdud-nnek s asenfaṛ-passphrase, yessefk aḍris n yidles iferdisen imi d support n akken-aghur n tigidin, d ɣer waḥed. Molly d-yesεaḍ Signal standard s wayen ur yettwalḥa ara usemṛu, yettwaḥed ɣef tazwara.
+
+<Strong>Tamazirt Nnif:</Strong>
+
+- Tmazirt n data deg usser: Sefka database-n ugdud-nnek s tmazirt passphrase iḍelli.
+- Afus n RAM asɛeb: Ssefk ad yezmer uḍris n usemṛu deg memoria n usenfuf.
+- Ssiḍ n app iḍelli: Ssiḍ app deg weɛranen yettwaḥden ɣef tazwara.
+- Support n tigidin iferdisen: Sselk tigidin, ɣef tablets Android, ɣef akked account waḥed.
+- Ssefk n contacts ur yettawi ara: Eṭṭef n ugdud akked amaynut s weḥdi ɣef tazwara akked anti-spam.
+- Abrid n calls ad yezmer: Sfeḥ notifications n calls ɣef-sen d ugdud i d-yefk.
+- Logs n debug ad d-yeẓẓer: Seḥḥeḥ logging n Android ɣef privacy.
+- Sceduling n backup amezwaru: Sselk daily neɣ weekly, d amkan n backups i d-tefka.
+- SOCKS proxy d support n Tor: Serri traffic n app ɣef proxy akked Orbot.
+- Notifications: Sselk enteɣ open-source implementation n FCM, UnifiedPush neɣ websocket, ur yettwassnen ara s wudmawen n tmurt.
+
+Ar updates, news, d support, follow @mollyim@fosstodon.org. Sefka bugs d requests n features deg page n GitHub n project.

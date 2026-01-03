@@ -1,17 +1,18 @@
-Molly, bo Android bikarhênan xweser, guhertoyeke Signal e ku li ser ewlehiya fokus dike. Ew di heman demê de li serverên mesajê Signal tê girêdan û taybetmendiyên zêde pêşkêş dike.
+Molly guhertoya pêşkeftî û sererastkirî ya li ser ewlehiya Signal ji bo bikarhênerên Android e. Bela, çavkaniyê vekirî ye û bê software-yê xweî. Ew taybetmendiyên zêde pêşkêş dike dema ku têkildarî bi serverên mesajê yên Signal dike.  
 
-Molly parastina şîfreya database-a peyamên xwe yên herêmî vegerîye û taybetmendiyên taybet wek piştgirîya pir-amezî û zêdetir pêk tîne. Di nav Molly an Molly-FOSS de hilbijêrin, her du yekan xweser û vekirî ne, bi an bê çîpên xwerû, li gorî xwestinê. Molly sepana Signal-ê bi ewlehiya xwe ne xuyakirin û bi temamî dibe reproducible.
+Molly parastina şîfreya ji bo database-ya mesajên herêmî ya te vegerîne û taybetmendiyên taybet ên wekî piştgirî ya çend-ameyî û hwd. Molly sepanê Signal-ê standard bêyî ku ewlehiyê tê xetere kirin pêşkeftî dike û hemûya vegerandinê heye.  
 
 <Strong>Taybetmendiyên Serekî:</Strong>
 
-- Şîfreya daneyê li cîh: Database-a peyamên xwe bi şîfreya hêzdar parastin.
-- RAM-wiper ewlek: Daneyên girîng ji bîrê derve ji RAM-ê bê ewlekî jêbirin.
-- App lock automatîk: App-ê di mercên taybet de bikişîne bo ewlehiya zêde.
-- Piştgirîya pir-amezî: Pir amezî wek Android tablets bi hesabek yek girêdan.
-- Block kirina têkiliyên nasnayî: Peyam û bang ji şandeyên nasnayî derxistin bo ewlehiya spam-ê.
-- Dîroka bangên ku tê deqel dibe: Notifikasyonên bang û peyamên ku qediya bi hev jêbirin.
-- Debug log-ên opsiyonel: Logging-a Android jêbirin bo taybetî.
-- Rêjeya backup-a xweser: Li ser rêjeyên rojane an hefteyan û hejmarek backup-ên ku hîn bikin hilbijêrin.
-- SOCKS proxy û piştgirîya Tor: Traffic-a network-ê ya app-ê bi proxy an Orbot ve reroute bikin.
+- Şîfreya daneyên li hestiyê: Database-ya mesajên xwe bi şîfreya hêzdar parastin.  
+- RAM-ê ewlehî jêbirin: Daneyên hêsan ji bîrê amûrê bi ewlehî jêbirin.  
+- Qefesandina app-ê bi otomatîk: App-ê li şertên taybet qefes bike bo ewlehiyê zêde.  
+- Piştgirî ya çend-ameyî: Gelek amûran, tê de tabletên Android, bi yek hesab ve girêdan bikin.  
+- Blok kirina têkiliyên nasnabe: Ji bo ewlehiyê û anti-spam, mesaj û bang ji şandeyên nasnabe rawestin.  
+- Dîroka bangê ku diçîne: Agahiyên bang û mesajên ku dê bêdeng bibin paqij bikin.  
+- Logên debug-ê yê bijare: Ji bo taybetî, logging-ê Android-ê qefes bike.  
+- Rêveberiya backup-ê xweser: Navbera rojane an hefteyane hilbijêre û hejmarê backup-ên ku dê mayin rêke.  
+- SOCKS proxy û Tor piştgirî: Traffîka torê app-ê bi proxy û Orbot rê ve bixe.  
+- Agahdariyên: Di nav implementation-yek open-source, bê-proprietary ya FCM, UnifiedPush an websocket de hilbijêre.  
 
-Bo nûvekirin, nûçeyan û piştgirî, @mollyim@fosstodon.org li benda xwe bikin. Bugs û daxwazên taybet di rûpela GitHub ya projet de binivîsin.
+Ji bo nûkirinên dawî, nûçeyan û piştgirî, @mollyim@fosstodon.org şop bikin. Bug û daxwazên taybetmendiyê li rûpela GitHub-a projeyê bişînin.  

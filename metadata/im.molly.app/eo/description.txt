@@ -1,17 +1,18 @@
-Molly estas sekurec-orientita, plibonigita versio de Signal por Android-uzantoj. Ĝi ofertas aldonajn funkciojn konektiĝante al la mesaĝaj serviloj de Signal.
+Molly estas sekurec-celita, plibonigita versio de Signal por Android-uzantoj. Ĝi estas senpaga, malfermfonta kaj sen proprieta programaro. Ĝi ofertas pliajn funkciojn dum ĝi konektiĝas al la mesaĝaj serviloj de Signal.
 
-Molly revenigas pasfrazo-protekton por via loka mesaĝa datumbazo kaj inkluzivas unikajn funkciojn kiel plur-aparatan subtenon kaj pli. Elektu inter Molly aŭ Molly-FOSS, ambaŭ senpagaj kaj malfermitkodaj opcioj kun aŭ sen proprietaj komponantoj, depende de viaj preferoj. Molly plibonigas la defaŭltan Signal-aplikaĵon sen kompromiti sekurecon kaj estas plene reproduktebla.
+Molly re-enkondukas pasvortan protekton por via loka mesaĝ-datumbazo kaj inkluzivas unikajn trajtojn kiel subtenon por pluraj aparatoj, kaj pli. Molly plibonigas la normalan Signal-aplikaĵon sen kompromiti la sekurecon kaj estas plene reproduktebla.
 
-<Strong>Ĉefaj trajtoj:</Strong>
+<Strong>Ĉefaj Trajtoj:</Strong>
 
-- Datumĉifrado en ripozo: Protektu vian mesaĝan datumbazon per forta pasfrazo-ĉifrado.
-- Sekura RAM-purigilo: Sekure forigas sentemajn datumojn el la memoro de la aparato.
-- Aŭtomata aplikaĵ-seruro: Ŝlosas la apon sub specifaj kondiĉoj por plia sekureco.
-- Plur-aparata subteno: Ligu plurajn aparatojn, inkluzive de Android-tabuletoj, al ununura konto.
-- Bloku nekonatajn kontaktojn: Malhelpas mesaĝojn kaj vokojn de nekonataj sendintoj.
-- Malaperanta vokhistorio: Viŝas vokavizojn kune kun forpasantaj mesaĝoj.
-- Laŭvolaj sencimigaj protokoloj: Malaktivigu la registradon de Android por privateco.
-- Propra sekurkopiado: Elektu ĉiutagajn aŭ semajnajn intervalojn kaj la nombron da sekurkopioj por konservi.
-- Subteno por SOCKS-prokurilo kaj Tor: Direktu la rettrafikon de la apo tra prokurilo kaj Orbot.
+- Datum-kodado en ripozo: Protektu vian mesaĝ-datumbazon per forta pasvorta kodado.
+- Sekura RAM-forigo: Sekure forigu sentemajn datumojn el la memoro de la aparato.
+- Aŭtomata app-loko: Ŝlosu la aplikaĵon laŭ specifaj kondiĉoj por plia sekureco.
+- Subteno por pluraj aparatoj: Ligigu plurajn aparatojn, inkluzive de Android-tablojdoj, al unu konto.
+- Bloki nekonatajn kontaktojn: Malhelpu mesaĝojn kaj vokojn de nekonataj sendantoj por sekureco kaj kontraŭ-spama celo.
+- Malaperanta vok-historio: Forigu vokajn sciigojn kune kun eksvalidiĝantaj mesaĝoj.
+- Opciaj debug-logoj: Malŝaltu Android-logadon por privateco.
+- Propra planado de rezervkopioj: Elektu ĉiutagajn aŭ semajnajn intervalojn kaj la nombron da rezervkopioj por reteni.
+- Subteno por SOCKS-prokso kaj Tor: Redirektu la retan trafikon de la aplikaĵo per prokso kaj Orbot.
+- Sciigoj: Elektu inter malfermfonta, propriet-libera efektivigo de FCM, UnifiedPush aŭ websocket.
 
-Por ĝisdatigoj, novaĵoj kaj subteno, sekvu @mollyim@fosstodon.org. Sendu erarojn kaj trajtopetojn en la GitHub-paĝo de la projekto.
+Por ĝisdatigoj, novaĵoj kaj subteno, sekvu @mollyim@fosstodon.org. Raportu erarojn kaj petojn pri funkcioj ĉe la GitHub-paĝo de la projekto.

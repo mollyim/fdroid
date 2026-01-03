@@ -1,17 +1,18 @@
-Is leagan feidhmiúil ar Signal do úsáideoirí Android é Molly atá dírithe ar shlándáil. Soláthraíonn sé gnéithe breise agus é ag nascadh le freastalaithe teachtaireachtaí Signal.
+Is leagan feabhsaithe agus dírithe ar shlándáil de Signal é Molly do úsáideoirí Android. Tá sé saor in aisce, foinse oscailte, agus gan aon bhogearraí tráchtála. Tairgeann sé gnéithe breise agus é ag nascadh leis na freastalaithe teachtaireachta Signal.
 
-Tugann Molly cosaint pasfhocal ar ais don bhunachar sonraí teachtaireachtaí áitiúil agus tá gnéithe uathúla aige cosúil le tacaíocht ilghléas, agus níos mó. Roghnaigh idir Molly nó Molly-FOSS, roghanna saor in aisce agus foinse oscailte le nó gan bloic phróipriéadaithe, ag brath ar do rogha. Feabhsaíonn Molly aip Signal stoc gan slándáil a íobairt agus is féidir é a atshlánú go hiomlán.
+Filleann Molly ar chosaint pasfhocal do do bhunachar sonraí teachtaireachta áitiúil agus tá gnéithe uathúla aige cosúil le tacaíocht ilghléas agus níos mó. Feabhsaíonn Molly an aip Signal caighdeánach gan dochar a dhéanamh don tslándáil agus tá sé in-athghinte go hiomlán.
 
 <Strong>Príomhghnéithe:</Strong>
 
-- Criptithe sonraí i gcónaí: Cosain do bhunachar sonraí teachtaireachtaí le criptithe pasfhocal láidir.
-- Scraper RAM slán: Scrios sonraí íogaire go sábháilte ó chuimhne an ghléis.
-- Lock aip uathoibríoch: Lock an aip faoi choinníollacha áirithe le haghaidh slándála breise.
-- Tacaíocht ilghléas: Nasc roinnt gairis, lena n-áirítear táibléad Android, le cuntas amháin.
-- Blocáil teagmhálacha anaithnid: Cosc ar theachtaireachtaí agus glaonna ó sheoltóirí anaithnid.
-- Stair glaonna intuaslagtha: Glan fógraí glaonna le teachtaireachtaí a théann in éag.
-- Logaí fabhtcheartaithe roghnach: Díghníomhachtaigh logáil Android le haghaidh príobháideachta.
-- Sceideal cúltaca saincheaptha: Roghnaigh idir tréimhsí laethúla nó seachtainiúla agus líon na gcúltacaí atá le coinneáil.
-- Tacaíocht SOCKS proxy agus Tor: Beartaigh trácht líonra an aip trí phróicsí agus Orbot.
+- Criptiú sonraí i sos: Cosain do bhunachar sonraí teachtaireachta le criptiú pasfhocail láidir.
+- Scriosóir RAM sábháilte: Scrios sonraí íogaire ón chuimhne feiste go sábháilte.
+- Lock aip uathoibríoch: Dún an aip faoi choinníollacha áirithe le haghaidh slándála breise.
+- Tacaíocht ilghléas: Nasc go leor gléasanna, lena n-áirítear táibléid Android, le cuntas amháin.
+- Blocáil teagmhálacha anaithnid: Cosc ar theachtaireachtaí agus glaonna ó sheoltóirí anaithnid ar mhaithe le slándáil agus frith-spam.
+- Stair glaonna atá ag imeacht: Glan fógraí glaonna in éineacht le teachtaireachtaí atá ag dul in éag.
+- Logaí debug roghnach: Múch logáil Android chun do phríobháideacht a chosaint.
+- Sceideal cúltaca saincheaptha: Roghnaigh eatraimh laethúla nó seachtainiúla agus líon na gcúltacaí le coimeád.
+- Tacaíocht SOCKS agus Tor: Beartaigh trácht líonra an aip trí proxy agus Orbot.
+- Fógraí: Roghnaigh idir cur i bhfeidhm foinse oscailte, saor ó bhogearraí tráchtála de FCM, UnifiedPush nó websocket.
 
-Le haghaidh nuashonruithe, nuacht agus tacaíochta, lean @mollyim@fosstodon.org. Cuir isteach fabhtanna agus iarratais gné ar leathanach GitHub an tionscadail.
+Chun nuashonruithe, nuacht agus tacaíocht a fháil, lean @mollyim@fosstodon.org. Seol fabhtanna agus iarratais ar ghnéithe ar leathanach GitHub an tionscadail.

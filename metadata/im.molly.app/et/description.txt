@@ -1,17 +1,18 @@
-Molly on turvalisusele keskendunud täiustatud Signal'i versioon Androidi kasutajatele. See pakub täiendavaid funktsioone, ühendudes Signal'i sõnumiserveritega.
+Molly on turvalisusele keskendunud, täiustatud versioon Signalist Androidi kasutajatele. See on tasuta, avatud lähtekoodiga ja ei sisalda omandatud tarkvara. Pakub täiendavaid funktsioone, samal ajal olles ühendatud Signali sõnumiserveritega.
 
-Molly toob tagasi paroolifraasiga kaitse sinu kohaliku sõnumite andmebaasi jaoks ja sisaldab ainulaadseid funktsioone nagu mitme seadme tugi ja palju muud. Vali Molly või Molly-FOSS, mõlemad on tasuta ja avatud lähtekoodiga, sõltuvalt sellest, kas eelistad patenteeritud komponente või mitte. Molly täiustab Signal'i rakendust ilma turvalisust ohverdamata ja on täielikult reprodutseeritav.
+Molly taastab paroolikaitse sinu lokaalse sõnumite andmebaasi jaoks ja sisaldab unikaalseid funktsioone, nagu mitme seadme tugi ja muud. Molly täiustab tavapärast Signal rakendust ilma turvalisust ohverdamata ja on täielikult reprodutseeritav.
 
 <Strong>Põhifunktsioonid:</Strong>
 
-- Andmete krüpteerimine puhkeolekus: Kaitse oma sõnumite andmebaasi tugeva paroolifraasi krüpteeringuga.
-- Turvaline RAM-i puhastaja: Kustutab tundlikud andmed turvaliselt seadme mälust.
-- Automaatne rakenduse lukustus: Lukustab rakenduse teatud tingimustel täiendava turvalisuse tagamiseks.
-- Mitme seadme tugi: Seo mitu seadet, sh Androidi tahvelarvutid, ühe konto külge.
-- Tundmatute kontaktide blokeerimine: Väldi sõnumeid ja kõnesid tundmatutelt saatjatelt.
-- Kaduv kõneajalugu: Eemaldab kõneteavitused koos aeguvate sõnumitega.
+- Andmete krüpteerimine puhkeolekus: Kaitse oma sõnumite andmebaasi tugeva paroolikrüpteeringuga.
+- Turvaline RAM-i kustutamine: Kustuta tundlikud andmed seadme mälust turvaliselt.
+- Automaatne rakenduse lukustus: Lukusta rakendus teatud tingimustel täiendava turvalisuse tagamiseks.
+- Mitme seadme tugi: Ühenda mitu seadet, sh Android tahvelarvuteid, ühe kontoga.
+- Tundmatute kontaktide blokeerimine: Takista sõnumeid ja kõnesid tundmatutelt saatjatelt turvalisuse ja rämpsposti vältimiseks.
+- Kaduv kõnede ajalugu: Kustuta kõneteavitused koos aeguvate sõnumitega.
 - Valikulised silumislogid: Keela Androidi logimine privaatsuse tagamiseks.
-- Kohandatud varunduse ajastus: Vali igapäevased või iganädalased intervallid ja varukoopiate arv, mida säilitada.
-- SOCKS-proxy ja Tor-i tugi: Suuna rakenduse võrguliiklus puhverserveri ja Orbot'i kaudu.
+- Kohandatud varunduste ajakava: Vali päevased või nädalased intervallid ja hoitavate varunduste arv.
+- SOCKS-proksi ja Tor-tugi: Suuna rakenduse võrgu liiklus läbi proksi ja Orbot-i.
+- Teavitused: Vali avatud lähtekoodiga ja omandivaba lahendus FCM-i, UnifiedPush-i või websocket-i jaoks.
 
-Uuenduste, uudiste ja toe saamiseks jälgi @mollyim@fosstodon.org. Esita veateated ja funktsioonisoovid projekti GitHubi lehel.
+Uuenduste, uudiste ja toe saamiseks jälgi @mollyim@fosstodon.org. Esita veateateid ja funktsioonisoove projekti GitHubi lehel.

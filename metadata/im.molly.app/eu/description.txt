@@ -1,17 +1,18 @@
-Molly Android erabiltzaileentzako Signal-en segurtasunean oinarritutako bertsio hobetu bat da. Funtzio osagarriak eskaintzen ditu Signal-en mezularitza-zerbitzariekin konektatzean.
+Molly Android erabiltzaileentzat Signal-en segurtasunari arreta handia jartzen dion bertsio hobetua da. Doakoa da, kode irekikoa eta ez du software pribaturik. Funtzionalitate gehigarriak eskaintzen ditu, aldi berean Signal mezularitza zerbitzarietara konektatuta.
 
-Molly-k mezuen datu-base lokalaren pasahitz-babesaren funtzioa itzultzen du eta funtzio bereziak eskaintzen ditu, hala nola gailu anitzeko euskarria eta gehiago. Aukeratu Molly edo Molly-FOSS artean, biak doako eta kode irekiko aukerak dira, jabedun osagaiekin edo gabe, zure lehentasunen arabera. Molly-k Signal aplikazio estandarra hobetzen du segurtasuna arriskuan jarri gabe eta guztiz erreproduzigarria da.
+Molly-k pasahitz babespena berreskuratzen du zure tokiko mezuen datu-basean eta funtzio bereziak ditu, hala nola gailu anitzeko laguntza, eta gehiago. Molly Signal aplikazio estandarra hobetzen du segurtasuna arriskuan jarri gabe eta guztiz erreprodukziezina da.
 
-<Strong>Funtzio nagusiak:</Strong>
+<Strong>Ezaugarri nagusiak:</Strong>
 
-- Datuen enkriptazioa atsedenaldian: Babestu zure mezuen datu-basea pasahitz sendoaren bidezko enkriptazioarekin.
-- RAM garbitzaile segurua: Ezabatu datu sentikorrak gailuaren memoriatik modu seguruan.
-- Aplikazioaren blokeoa automatikoki: Blokeatu aplikazioa baldintza zehatzetan segurtasun handiagoa lortzeko.
-- Gailu anitzeko euskarria: Konektatu hainbat gailu, Android tableta barne, kontu bakar batera.
-- Ezezagunak blokeatu: Saihestu mezu eta deiak bidaltzaile ezezagunengandik.
-- Desagertzen den dei-historiala: Garbitu dei-jakinarazpenak iraungitzen diren mezuak bezala.
-- Arazketa-erregistro aukeragarriak: Desaktibatu Android-eko erregistroak pribatutasun handiagoa izateko.
-- Babeskopia egutegi pertsonalizatua: Aukeratu egunero edo astero egin eta zenbat kopia mantendu nahi dituzun.
-- SOCKS proxy eta Tor euskarria: Aplikazioaren sare-trafikoa proxy eta Orbot bidez bideratu.
+- Datuen enkriptatzea atseden egoeran: Babestu zure mezuen datu-basea pasahitz indartsu batekin.
+- RAM segurua ezabatzea: Ezabatu modu seguruan gailuko memoriako datu sentikorrak.
+- Aplikazioaren blokeo automatikoa: Blokeatu aplikazioa baldintza zehatzetan segurtasun gehigarri baterako.
+- Gailu anitzeko laguntza: Lotu gailu anitz, Android tabletak barne, kontu bakar batekin.
+- Ezagutzen ez diren kontaktuak blokeatzea: Saihestu mezuak eta deiak bidaltzaile ezezagunetatik segurtasun eta anti-spam arrazoiak direla eta.
+- Deien historiaren desagerpena: Garbitu dei jakinarazpenak iraungitzen diren mezuekin batera.
+- Debug log aukeragarriak: Desaktibatu Android logak pribatutasunagatik.
+- Babeskopia pertsonalizatuaren programazioa: Aukeratu eguneroko edo asteko tarteak eta gordeko diren babeskopien kopurua.
+- SOCKS proxy eta Tor laguntza: Bideratu aplikazioaren sare trafikoa proxy baten eta Orbot bidez.
+- Jakinarazpenak: Aukeratu kode irekiko, software pribatutik libreko FCM, UnifiedPush edo websocket inplementazioaren artean.
 
-Eguneratzeak, berriak eta laguntza jasotzeko, jarraitu @mollyim@fosstodon.org. Bidali akatsak eta funtzionalitate-eskaerak proiektuaren GitHub orrialdean.
+Eguneraketak, berriak eta laguntza jasotzeko, jarraitu @mollyim@fosstodon.org. Bidali akatsen berri eta funtzio eskaerak proiektuaren GitHub orrian.

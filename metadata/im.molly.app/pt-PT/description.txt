@@ -1,17 +1,18 @@
-Molly é uma versão focada na segurança e melhorada do Signal para utilizadores Android. Oferece funcionalidades adicionais enquanto se conecta aos servidores de mensagens do Signal.
+Molly é uma versão melhorada e focada na segurança do Signal para utilizadores Android. Gratuita, open-source e sem qualquer software proprietário. Oferece funcionalidades adicionais enquanto se liga aos servidores de mensagens do Signal.  
 
-Molly traz de volta a proteção por frase-passe para a base de dados local de mensagens e inclui funcionalidades únicas como suporte a múltiplos dispositivos, entre outros. Escolha entre Molly ou Molly-FOSS, ambas gratuitas e open-source, com ou sem componentes proprietários, dependendo das suas preferências. Molly melhora a aplicação Signal padrão sem comprometer a segurança e é totalmente reproduzível.
+Molly traz de volta a proteção por palavra-passe para a sua base de mensagens local e inclui funcionalidades únicas, como suporte a múltiplos dispositivos, entre outras. Molly melhora a aplicação Signal padrão sem comprometer a segurança e é totalmente reproduzível.  
 
-<Strong>Funcionalidades Principais:</Strong>
+<Strong>Principais funcionalidades:</Strong>
 
-- Criptografia de dados em repouso: Proteja a base de dados de mensagens com criptografia forte por frase-passe.
-- Limpador seguro de RAM: Apague de forma segura dados sensíveis da memória do dispositivo.
-- Bloqueio automático da aplicação: Bloqueie a aplicação em condições específicas para maior segurança.
-- Suporte a múltiplos dispositivos: Ligue vários dispositivos, incluindo tablets Android, a uma única conta.
-- Bloquear contactos desconhecidos: Impedir mensagens e chamadas de remetentes desconhecidos por segurança e anti-spam.
-- Histórico de chamadas efémero: Limpar notificações de chamadas juntamente com mensagens expiradas.
-- Logs de depuração opcionais: Desative o registo de Android para privacidade.
-- Agendamento personalizado de backups: Escolha intervalos diários ou semanais e o número de backups a manter.
-- Suporte SOCKS e Tor: Direcione o tráfego de rede da aplicação via proxy e Orbot.
+- Criptografia de dados em repouso: Proteja a sua base de mensagens com encriptação forte por palavra-passe.  
+- Limpador seguro de RAM: Apague dados sensíveis da memória do dispositivo de forma segura.  
+- Bloqueio automático da aplicação: Bloqueie a aplicação em condições específicas para maior segurança.  
+- Suporte a múltiplos dispositivos: Ligue vários dispositivos, incluindo tablets Android, a uma única conta.  
+- Bloquear contactos desconhecidos: Evite mensagens e chamadas de remetentes desconhecidos por segurança e anti-spam.  
+- Histórico de chamadas que desaparece: Limpe notificações de chamadas juntamente com mensagens expiradas.  
+- Logs de depuração opcionais: Desactive a gravação no Android para proteger a privacidade.  
+- Agendamento personalizado de backups: Escolha intervalos diários ou semanais e o número de backups a manter.  
+- Suporte a SOCKS proxy e Tor: Direccione o tráfego de rede da aplicação através de proxy e Orbot.  
+- Notificações: Escolha entre uma implementação open-source e livre de software proprietário de FCM, UnifiedPush ou WebSocket.  
 
 Para atualizações, notícias e suporte, siga @mollyim@fosstodon.org. Envie bugs e pedidos de funcionalidades na página GitHub do projeto.

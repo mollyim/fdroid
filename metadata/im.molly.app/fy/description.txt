@@ -1,17 +1,18 @@
-Molly is in feiligensrjochte, ferbettere ferzje fan Signal foar Android-brûkers. It biedt ekstra funksjes wylst it ferbynt mei Signal's berjochtenservers.
+Molly is in feiligens-rjochte, ferbettere ferzje fan Signal foar Android-brûkers. It is fergees, iepen boarne en sûnder proprietary software. It biedt ekstra funksjes wylst it ferbynt mei de messagingservers fan Signal.
 
-Molly bringt passphrase-beskerming werom foar jo lokale berjochten database en hat unike funksjes lykas stipe foar meardere apparaten, en mear. Kies tusken Molly of Molly-FOSS – beide binne frij en open-source, mei of sûnder proprietary komponinten, ôfhinklik fan jo foarkar. Molly ferbetteret de orizjinele Signal-app sûnder feiligens op te jaan en is folslein reproducearber.
+Molly bringt wachtwurdbeskerming werom foar jo lokale berjochten-database en omfiemet unike funksjes lykas stipe foar meardere apparaten en mear. Molly ferbetteret de standert Signal-app sûnder de feiligens yn gefaar te bringen en is folslein reprodusearber.
 
 <Strong>Haadfunksjes:</Strong>
 
-- Encrypting gegevens yn rêst: Beskerm jo berjochten database mei sterke passphrase-encrypting.
-- Feilige RAM-wiper: Wiske gefoelige gegevens feilich út it apparaatmemory.
-- Automatyske app-slot: Slot de app ûnder bepaalde omstannichheden foar ekstra feiligens.
-- Stipe foar meardere apparaten: Ferbine meardere apparaten, ynklusyf Android-tablets, oan ien akkount.
-- Blokearje ûnbekende kontakten: Stopje berjochten en oproppen fan ûnbekende stjoerders.
-- Kaduere oprophistoarje: Wiske oprop-notifikaasjes mei ferrinnende berjochten.
-- Opsjonele debug-logboeken: Skeakelje Android-logging út foar mear privacy.
-- Oanpaste backup-skedule: Kies deistige of wikeblêdskieding en hoefolle backups bewarre wurde.
-- SOCKS-proxy en Tor-stipe: Leid app-netwurkferkear troch in proxy en Orbot.
+- Encrypting fan gegevens yn rêst: Beskerm jo berjochten-database mei sterke wachtwurd-encrypting.
+- Feilige RAM-wiper: Wiske gefoelige gegevens feilich út it ûnthâld fan it apparaat.
+- Automatyske app-lock: Slút de app ûnder spesifike omstannichheden foar ekstra feiligens.
+- Stipe foar meardere apparaten: Ferbine meardere apparaten, ynklusyf Android-tablets, mei ien akkount.
+- Blokearje ûnbekende kontakten: Foarkom berjochten en oproppe fan ûnbekende ferstjoerders foar feiligens en anty-spam.
+- Ferskine fan oproppe skiednis: Wiske oprop-notifikaasjes tegearre mei ferrinne berjochten.
+- Opsjonele debug-logs: Skeakelje Android-logging út foar privacy.
+- Oanpaste backup-skedulearring: Kies deistige of wyklikse yntervallen en it oantal backups om te behâlden.
+- SOCKS-proxy en Tor-stipe: Routearje app-netwurkferkear fia proxy en Orbot.
+- Notifikaasjes: Kies tusken in iepen boarne, proprietary-frije ymplemintaasje fan FCM, UnifiedPush of websocket.
 
-Folgjende updates, nijs en stipe: folgje @mollyim@fosstodon.org. Melde bugs en funksje-oanfragen op 'e GitHub-side fan it projekt.
+Foar updates, nijs en stipe, folgje @mollyim@fosstodon.org. Meld bugs en funksje-oanfragen op de GitHub-side fan it projekt.

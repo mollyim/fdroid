@@ -1,17 +1,18 @@
-Molly is een beveiligingsgerichte, verbeterde versie van Signal voor Android-gebruikers. Het biedt extra functies terwijl het verbinding maakt met de messaging-servers van Signal.
+Molly is een beveiligingsgerichte, verbeterde versie van Signal voor Android-gebruikers. Gratis, open-source en zonder propriëtaire software. Ze biedt extra functies terwijl ze verbinding maakt met de Signal-berichtservers.  
 
-Molly brengt wachtwoordbeveiliging terug voor je lokale berichten database en bevat unieke functies zoals ondersteuning voor meerdere apparaten, en meer. Kies tussen Molly of Molly-FOSS, beide gratis en open-source opties met of zonder propriëtaire componenten, afhankelijk van je voorkeur. Molly verbetert de standaard Signal-app zonder de veiligheid in gevaar te brengen en is volledig reproduceerbaar.
+Molly brengt opnieuw wachtwoordbescherming voor je lokale berichtendatabase en bevat unieke functies zoals ondersteuning voor meerdere apparaten en meer. Molly verbetert de standaard Signal-app zonder concessies te doen aan de veiligheid en is volledig reproduceerbaar.  
 
-<Strong>Belangrijkste kenmerken:</Strong>
+<Strong>Belangrijkste functies:</Strong>
 
-- Versleuteling van data in rust: Bescherm je berichten database met sterke wachtwoordversleuteling.
-- Veilige RAM-wisser: Wis gevoelige gegevens veilig uit het apparaatgeheugen.
-- Automatische app-vergrendeling: Vergrendel de app onder specifieke voorwaarden voor extra veiligheid.
-- Ondersteuning voor meerdere apparaten: Koppel meerdere apparaten, inclusief Android-tablets, aan één account.
-- Blokkeer onbekende contacten: Voorkom berichten en oproepen van onbekende afzenders.
-- Verdwenen oproephistorie: Wis oproepmeldingen samen met verlopen berichten.
-- Optionele debug-logboeken: Schakel Android-logboekregistratie uit voor privacy.
-- Aangepaste back-up planning: Kies dagelijkse of wekelijkse intervallen en het aantal back-ups om te bewaren.
-- SOCKS-proxy en Tor-ondersteuning: Routeer app-netwerkverkeer via proxy en Orbot.
+- Gegevensversleuteling in rust: Bescherm je berichtendatabase met sterke wachtwoordversleuteling.  
+- Veilige RAM-wisser: Wis gevoelige gegevens veilig uit het geheugen van het toestel.  
+- Automatische app-vergrendeling: Vergrendel de app onder specifieke omstandigheden voor extra veiligheid.  
+- Ondersteuning voor meerdere apparaten: Koppel meerdere toestellen, inclusief Android-tablets, aan één account.  
+- Blokkeer onbekende contacten: Voorkom berichten en oproepen van onbekende afzenders voor veiligheid en anti-spam.  
+- Verdwijning van gespreksgeschiedenis: Wis oproepmeldingen samen met verlopen berichten.  
+- Optionele debuglogs: Schakel Android-logboekregistratie uit voor privacy.  
+- Aangepaste back-upplanning: Kies dagelijkse of wekelijkse intervallen en het aantal back-ups om te bewaren.  
+- SOCKS-proxy en Tor-ondersteuning: Leid app-netwerkverkeer via proxy en Orbot.  
+- Meldingen: Kies uit een open-source, propriëtaire-vrije implementatie van FCM, UnifiedPush of WebSocket.  
 
-Voor updates, nieuws en ondersteuning, volg @mollyim@fosstodon.org. Dien bugs en functieverzoeken in op de GitHub-pagina van het project.
+Voor updates, nieuws en ondersteuning volg @mollyim@fosstodon.org. Dien bugs en functieverzoeken in op de GitHub-pagina van het project.

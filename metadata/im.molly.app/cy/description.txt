@@ -1,17 +1,18 @@
-Mae Molly yn fersiwn ddiogelwch-ganolog, well o Signal ar gyfer defnyddwyr Android. Mae'n cynnig nodweddion ychwanegol wrth gysylltu â gweinyddion negesu Signal.
+Molly je bezpečnostně orientovaná, vylepšená verze aplikace Signal pro uživatele Androidu. Je zdarma, open-source a bez proprietárního softwaru. Nabízí další funkce při připojení k serverům pro zasílání zpráv Signal.
 
-Mae Molly yn dychwelyd diogelu cyfrinair ar gyfer eich cronfa ddata negeseuon leol ac yn cynnwys nodweddion unigryw fel cefnogaeth aml-gyfarpar, ac ati. Dewiswch rhwng Molly neu Molly-FOSS, y ddau opsiwn am ddim ac agored, gyda neu heb gydrannau perchnogol yn ôl eich dewis. Mae Molly yn gwella'r app Signal safonol heb gyfaddawdu ar ddiogelwch ac mae'n gwbl ailgynhyrchiadwy.
+Molly obnovuje ochranu místní databáze zpráv pomocí přístupového hesla a obsahuje unikátní funkce, jako je podpora více zařízení a další. Molly zlepšuje standardní aplikaci Signal, aniž by ohrozila bezpečnost, a je plně reprodukovatelná.
 
-<Strong>Nodweddion Allweddol:</Strong>
+<Strong>Hlavní funkce:</Strong>
 
-- Amgryptio data wrth orffwys: Diogelwch eich cronfa ddata negeseuon gyda chyfrinair cryf.
-- Glanhawyr RAM diogel: Dileu data sensitif yn ddiogel o gof y ddyfais.
-- Clo app awtomatig: Cloi'r app o dan amodau penodol am ddiogelwch ychwanegol.
-- Cefnogaeth aml-gyfarpar: Cysylltwch sawl dyfais, gan gynnwys tabledi Android, i un cyfrif.
-- Blocio cysylltiadau anhysbys: Atal negeseuon a galwadau gan anfonwyr anhysbys.
-- Hanes galwadau diflannu: Clirio hysbysiadau galwadau gyda negeseuon sy'n darfod.
-- Logiau dadfygio dewisol: Analluoga gofnodi Android er mwyn preifatrwydd.
-- Amserlennu copi wrth gefn wedi'i deilwra: Dewiswch rhwng cyfnodau dyddiol neu wythnosol a nifer y copïau i'w cadw.
-- Cefnogaeth SOCKS proxy a Tor: Llwybro traffig rhwydwaith yr app trwy proxy ac Orbot.
+- Šifrování dat v klidu: Chraňte svou databázi zpráv pomocí silného šifrování heslem.
+- Bezpečné vymazání RAM: Bezpečně odstraňte citlivá data z paměti zařízení.
+- Automatické zamykání aplikace: Zamkněte aplikaci za specifických podmínek pro vyšší bezpečnost.
+- Podpora více zařízení: Připojte více zařízení, včetně tabletů Android, k jednomu účtu.
+- Blokování neznámých kontaktů: Zabraňuje přijímání zpráv a hovorů od neznámých odesílatelů pro bezpečnost a proti spamu.
+- Historie hovorů, která mizí: Vymazání oznámení o hovorech spolu s expirovanými zprávami.
+- Volitelné debug logy: Zakázat logování Androidu pro větší soukromí.
+- Vlastní plánování záloh: Vyberte denní nebo týdenní intervaly a počet záloh k uchování.
+- Podpora SOCKS a Tor: Směrujte síťový provoz aplikace přes proxy a Orbot.
+- Oznámení: Vyberte mezi open-source implementací FCM, UnifiedPush nebo websocket, bez proprietárního softwaru.
 
-Am ddiweddariadau, newyddion a chefnogaeth, dilynwch @mollyim@fosstodon.org. Cyflwynwch wallau a cheisiadau nodwedd ar dudalen GitHub y prosiect.
+Pro aktualizace, novinky a podporu sledujte @mollyim@fosstodon.org. Nahlaste chyby a požadavky na funkce na stránce projektu na GitHubu.

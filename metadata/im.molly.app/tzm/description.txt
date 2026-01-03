@@ -1,17 +1,18 @@
-Molly d amḍan n Signal i d-tṛuḥ amaynut, iḍelliḍen i wussan Android. Ttawiḍ iferdisn n tazwara s n Signal.
+Molly d wergaz i ssuqed tamsa n tmaziɣt, version imzayan n Signal i usefru Android. Iferḥ, open-source, ur yella ara ɣef wawal n usefru n tmellalt. T-sneḍfa isemkanen imaynan mella i d-yennaḍen s server n Signal n tazmert.  
 
-Molly yercḥ-ed tazwara s uɣilas n tazwara n ubrid nniḍen akk d iferdisn ameqqran iḍelliḍen, am tasnawt n taddart-nniḍen, d ayen nnid. Swaṭḥeḍ di Molly neɣ Molly-FOSS, ynna d iqṛiwan d ighlalen, s neɣ ur s-iḥseb ara i lqim n wumiḍen n ḥaḍṛin. Molly ɣermed Signal app ur tḥellef ara tazwara d amḍan d i d-yufaḍ ittwaclit.
+Molly t-kkren assaɣ n passphrase i database n tazmert n wennaɣ, s yisemkanen iman iggiwen am support n imuddan s fraḍ, d win iggiwen. Molly t-beddel Signal standard ur yella ara tmeddu n tmasla n tmsalut, u t-metti d reproducible s uzen.  
 
-<Strong>Aḥric n iferdisn:</Strong>
+<Strong>Aselkim n yisemkanen:</Strong>
 
-- Taḥfinit n iḍura deg yisr: Ḍfen tazwara-nwen s uḥrig n passphrase ameqran.
-- Amḍan n RAM i s-sel: Ḍfen iḍura n wul i d-ssin deg memory n l-app s uḥrig.
-- Tqiṭṭ n l-app ɣer-s : Qṭṭ l-app deg tmeddurt nniḍen i tḥelluft.
-- Tasnawt n taddart-nniḍen: Sɛmed iḍura n taddart, am tablet n Android, ɣer account yiwen.
-- Sakkar n iḍurar ur neqqar ara: Ɣef tazwara d tili n imḍurar ur neqqar ara s uḥrig d anti-spam.
-- Agdud n tsnufft n tili: Sef l-bulun n tili s tazwara nnid.
-- Dital n debug i s-sel: Sakkar logging n Android i uḍrim.
-- Isemnawen n backup i tteddu: Swaṭḥeḍ deg ussan neɣ asbuɛ, akked umḍi n backup i ttwafaqen.
-- SOCKS proxy akked Tor: Sekcem traffic n network n app s proxy akked Orbot.
+- Encryption n data ɣef umid: Asekcem database n tazmert n wennaɣ s passphrase encryption imdaḥen.  
+- RAM wiper i ssuqed: Ssiḍ data n tazmert ɣef memoria n usefru i ssuqed.  
+- Automatic app lock: Ssiḍ app ɣef tukkut tasnawt i ssuqed i tmasla.  
+- Multi-device support: Sefraḍ imuddan s fraḍ, d Android tablets, ɣef account waḥed.  
+- Block unknown contacts: Qbel asayen n yimelmi sserrin ur nezmir, i tmasla d anti-spam.  
+- Disappearing call history: Ssiḍ notifications n ufruɣ s tazmert i d-yekknen.  
+- Optional debug logs: Uɣel logging n Android i ssuqed n wass.  
+- Custom backup scheduling: Sefraḍ interval n ass n ass neɣ n simana, d amḍak n backups i t-ssuḍen.  
+- SOCKS proxy d Tor support: Ssefru traffic n app ɣef network s proxy d Orbot.  
+- Notifications: Sefraḍ seg implementasyon open-source, ur yesɛi ara proprietary, n FCM, UnifiedPush neɣ WebSocket.  
 
-Iɣef updates, news, akked support, follow @mollyim@fosstodon.org. Sdel bugs akked requests n iferdisn deg GitHub project.
+Ar tazult, akhbar, d support, ssuq @mollyim@fosstodon.org. Sserr bugs d talba n yisemkanen ɣef GitHub n projet.

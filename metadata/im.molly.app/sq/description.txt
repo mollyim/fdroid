@@ -1,17 +1,18 @@
-Molly është një version i Signal i përmirësuar dhe i fokusuar në siguri për përdoruesit Android. Ofron veçori shtesë duke u lidhur me serverët e mesazheve të Signal.
+Molly është një version i përmirësuar dhe i fokusuar në siguri i Signal për përdoruesit e Android. Falas, open-source dhe pa asnjë softuer pronësor. Ofron funksione shtesë ndërkohë që lidhet me serverët e mesazheve të Signal.  
 
-Molly rikthen mbrojtjen me fjalëkalim për bazën lokale të mesazheve dhe përfshin veçori unike si mbështetje për pajisje të shumta, etj. Zgjidhni mid ndërmjet Molly ose Molly-FOSS, të dyja janë falas dhe open-source, me ose pa komponentë pronësore, sipas preferencave tuaja. Molly përmirëson aplikacionin standard Signal pa komprometuar sigurinë dhe është plotësisht riprodhueshëm.
+Molly rikthen mbrojtjen me fjalëkalim për bazën tuaj lokale të mesazheve dhe përfshin funksione unike si mbështetja për pajisje të shumta dhe më shumë. Molly përmirëson aplikacionin standard të Signal pa kompromentuar sigurinë dhe është plotësisht riprodhuese.  
 
-<Strong>Karakteristikat Kryesore:</Strong>
+<Strong>Karakteristikat kryesore:</Strong>
 
-- Kriptimi i të dhënave në pushim: Mbroni bazën e mesazheve me fjalëkalim të fortë.
-- Pastrues i sigurt i RAM: Fshini me siguri të dhënat sensitive nga kujtesa e pajisjes.
-- Bllokim automatik i aplikacionit: Bllokoni aplikacionin në kushte specifike për siguri shtesë.
-- Mbështetje për shumë pajisje: Lidheni pajisje të shumta, përfshirë tabletët Android, me një llogari të vetme.
-- Bllokimi i kontakteve të panjohura: Parandaloni mesazhet dhe thirrjet nga dërgues të panjohur për siguri dhe anti-spam.
-- Historia e thirrjeve që zhduket: Pastroni njoftimet e thirrjeve së bashku me mesazhet që skadojnë.
-- Ditarë debug opsional: Çaktivizoni logimin e Android për privatësi.
-- Planifikimi i personalizuar i backup-it: Zgjidhni intervale ditore ose javore dhe numrin e backup-eve për t'u ruajtur.
-- Mbështetje SOCKS dhe Tor: Drejtoni trafikun e rrjetit të aplikacionit përmes proxy dhe Orbot.
+- Kriptimi i të dhënave në pushim: Mbroni bazën tuaj të mesazheve me kriptim të fortë me fjalëkalim.  
+- Fshirja e sigurt e RAM-it: Fshini në mënyrë të sigurt të dhënat e ndjeshme nga memoria e pajisjes.  
+- Bllokim automatik i aplikacionit: Bllokoni aplikacionin në kushte të caktuara për siguri shtesë.  
+- Mbështetje për pajisje të shumta: Lidhni pajisje të shumta, përfshirë tabletët Android, me një llogari të vetme.  
+- Bllokimi i kontakteve të panjohura: Parandaloni mesazhet dhe thirrjet nga dërguesit e panjohur për siguri dhe anti-spam.  
+- Historia e thirrjeve që zhduket: Fshini njoftimet e thirrjeve së bashku me mesazhet që skadojnë.  
+- Regjistrimet debug opsionale: Çaktivizoni regjistrimin në Android për privatësi.  
+- Planifikimi i personalizuar i backup-it: Zgjidhni intervale ditore ose javore dhe numrin e backup-eve për t’u ruajtur.  
+- Mbështetje për SOCKS proxy dhe Tor: Drejtoni trafikun e rrjetit të aplikacionit përmes proxy dhe Orbot.  
+- Njoftimet: Zgjidhni midis një implementimi open-source dhe pa pronësi të FCM, UnifiedPush ose WebSocket.  
 
-Për azhurnime, lajme dhe mbështetje ndiqni @mollyim@fosstodon.org. Dërgoni gabime dhe kërkesa për veçori në faqen GitHub të projektit.
+Për përditësime, lajme dhe mbështetje, ndiqni @mollyim@fosstodon.org. Dërgoni bugs dhe kërkesa për funksione në faqen GitHub të projektit.

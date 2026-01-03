@@ -1,17 +1,18 @@
-Molly zo ur stumm gwelloc'h eus Signal evit an implijerien Android, diazezet war ar surentez. Kinnig a ra perzhioù ouzhpenn e-keñver ar servijerioù kemennerezh Signal.
+Molly zo un hini gant sikour surentez, ha ur stumm gwelloc’h eus Signal evit ar re implij Android. Digoust eo, frankizenn-skrid digor hag hep koustoù medisinel. Eñ a ginnig özellikoù ouzhpenn tra ma vez liammet ouzh servijerioù kontadoù Signal.
 
-Molly a zigas en-dro gwarez dre frazenn-dremm evit da stlennva kemennadoù lec'hel ha lakaat a ra perzhioù dibar evel skoazell lies-trevnad hag ouzhpenn c'hoazh. Dibab etre Molly pe Molly-FOSS, an daou a zo digoust ha digor-mammenn gant pe hep lodennoù propriel, hervez da blijadur. Molly a wella an arload Signal orin hep lakaat ar surentez e riskl ha gallout a reer he adsevel en e bezh.
+Molly a adkav sikour gant ar pasvort evit ho bazenn boutadoù lec’hel hag a zo o hinioù dibar evel skoazell evit meur a stumm anezho, hag ouzhpenn. Molly a gwelloc’ha Signal stock hep kollet surentez ha gellir adkavout e pep tra.
 
-<Strong>Perzhioù pennañ :</Strong>
+<Strong>Erbedadennoù Pennañ:</Strong>
 
-- Enrinegadur roadennoù pa'z int stoket : Gwarez da stlennva kemennadoù gant un enrinegadur kreñv dre frazenn-dremm.
-- Skarzher RAM diogel : Skarzhañ roadennoù kizidik eus memor an trevnad.
-- Prennañ emgefreek an arload : Prennañ an arload pa'z eus stadioù resis evit muioc'h a surentez.
-- Skoazell lies-trevnad : Lakaat meur a drevnad, en o zouez tabletennoù Android, gant ur gont nemetken.
-- Stankañ darempredoù dianav : Herzel ar c'hemennadoù ha galvoù digant tud dianav.
-- Roll galvoù a ziskar : Dilemel ar c'hemennoù galv asambles gant ar c'hemennadoù a ya da get.
-- Klogidigezh diwallerezh direizh : Diweredekaat an deizlevrioù Android evit gwellaat ar vuhez prevez.
-- Steuñvañ gwaredoù personelaet : Dibab etre deiziek pe sizhuniek hag an niver a gwaredoù da virout.
-- Skoazell SOCKS ha Tor : Kas a ra ar c'hirriñ rouedad dre broksi ha Orbot.
+- Kladadur data e diabarzh: Diwall ho bazenn boutadoù gant ur c’hladadur pasvort kreñv.
+- Dreuzkas RAM sur: Leuniañ ho titouroù kuzhet er memor urzhiataer en doare sur.
+- Stankañ ar gouchenn a-otomat: Stankañ ar c’hemm eus ar gouchenn e stadoù resis evit surentez ouzhpenn.
+- Sikour meur a stumm: Kenderc’hel meur a urzhiataer, gant tablets Android ivez, da un akont hepken.
+- Blozañ kontaktoù dianav: Na zegemer ket boutadoù pe galoudoù digant an dianav evit surentez hag evit diospam.
+- Istor galoudoù diskar: Skuilhoù ar galoudoù gant boutadoù a vez kollet.
+- Logoù enklask eo dibabet: Klozañ logoù Android evit prevezidigezh.
+- Rekwer dre ur programm personelaet: Dibab etre begoù pe sizhunvezhiek, ha niver ar rekwer evit derc’hel.
+- Sikour SOCKS ha Tor: Rolit treuzkas networzh ar c’hemm dre ur proxie ha Orbot.
+- Kinnig d’ar notifikatioù: Dibab etre ur c’hemm digor ha hep medisin FCM, UnifiedPush pe websocket.
 
-Evit an hizivadennoù, ar c'heloù hag ar skoazell, heuilh @mollyim@fosstodon.org. Kas fazioù ha goulennioù perzhioù d'ar bajenn GitHub eus ar raktres.
+Evit diouzh ar pezh nevez, kelaouennoù ha sikour, heuliañ @mollyim@fosstodon.org. Kas ar fazioù hag ar goulennioù war github ar raktres.

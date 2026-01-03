@@ -1,17 +1,18 @@
-Molly er öruggðarvænt, bætt útgáfa af Signal fyrir Android notendur. Hún býður upp á aukna eiginleika á meðan hún tengist skilaboðamiðlara Signal.
+Molly er öruggari, endurbætt útgáfa af Signal fyrir Android notendur. Hún er ókeypis, opinn hugbúnaður og án einkaleyfis. Hún býður upp á auka eiginleika á meðan hún tengist skilaboðamiðlara Signal.  
 
-Molly kemur aftur með lykilorðavörn fyrir staðbundna skilaboðagagnagrunninn þinn og inniheldur einstaka eiginleika eins og stuðning við marga tæki, og fleira. Veldu á milli Molly eða Molly-FOSS, bæði ókeypis og opinn hugbúnaður, með eða án eignarhluta, eftir þínum óskum. Molly bætir við grunn Signal appinu án þess að fórna öryggi og er fullkomlega endurgeranlegt.
+Molly endurheimtir lykilorðsvörn fyrir staðbundna skilaboðagagnagrunninn þinn og inniheldur einstaka eiginleika eins og stuðning fyrir mörg tæki og fleira. Molly bætir venjulega Signal-forritið án þess að ógna öryggi og er fullkomlega endurgeranleg.  
 
-<Strong>Helstu eiginleikar:</Strong>
+<Strong>Lykilatriði:</Strong>
 
-- Dulkóðun gagna í hvíld: Verndaðu skilaboðagagnagrunninn þinn með sterkri lykilorðadulkóðun.
-- Örugg RAM-eyðing: Eyða viðkvæmum gögnum úr minni tækisins á öruggan hátt.
-- Sjálfvirk læsing á appi: Læstu appinu við ákveðnar aðstæður til að auka öryggi.
-- Stuðningur við marga tæki: Tengdu mörg tæki, þar á meðal Android spjaldtölvur, við einn aðgang.
-- Lokaðu ókunnugum tengiliðum: Komdu í veg fyrir skilaboð og símtöl frá ókunnugum sendendum.
-- Hvarfandi símtalasaga: Hreinsaðu símtala tilkynningar ásamt útrunnnum skilaboðum.
-- Valfrjálsir villudagbækur: Slökktu á Android logging fyrir persónuvernd.
-- Sérsniðin öryggisafrit: Veldu daglega eða vikulega bil og fjölda afrita sem á að halda.
-- SOCKS proxy og Tor stuðningur: Sendu netumferð appsins í gegnum proxy og Orbot.
+- Dulkóðun gagna í hvíld: Verndaðu skilaboðagagnagrunninn þinn með sterkri lykilorðsdulkóðun.  
+- Örugg RAM-hreinsun: Eyða viðkvæmum gögnum úr minni tækisins á öruggan hátt.  
+- Sjálfvirk læsing á forriti: Læstu forritinu við ákveðin skilyrði til aukins öryggis.  
+- Stuðningur við mörg tæki: Tengdu mörg tæki, þar á meðal Android spjaldtölvur, við einn reikning.  
+- Hindra ókunnuga tengiliði: Forðastu skilaboð og símtöl frá ókunnugum sendendum vegna öryggis og ruslpóstvörn.  
+- Hverfandi símtalasaga: Hreinsaðu símtalatilkynningar ásamt skilaboðum sem renna út.  
+- Valfrjáls villuleiðsögur (debug logs): Slökktu á Android skráningu til að vernda friðhelgi.  
+- Sérsniðin öryggisafritunaráætlun: Veldu daglega eða vikulega tíma og fjölda afrits sem á að geyma.  
+- SOCKS proxy og Tor stuðningur: Stýrið netumferð forritsins í gegnum proxy og Orbot.  
+- Tilkynningar: Veldu á milli opins hugbúnaðar og lausn án einkaleyfa fyrir FCM, UnifiedPush eða websocket.  
 
-Fyrir uppfærslur, fréttir og stuðning, fylgdu @mollyim@fosstodon.org. Sendu inn villur og eiginleikabeiðnir á GitHub síðu verkefnisins.
+Fyrir uppfærslur, fréttir og stuðning, fylgdu @mollyim@fosstodon.org. Sendu inn villur og beiðnir um eiginleika á GitHub síðu verkefnisins.

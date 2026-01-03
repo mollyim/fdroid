@@ -1,17 +1,18 @@
-Molly је безбедносно оријентисана, проширена верзија Signala за кориснике Андроида. Нуди додатне функције при повезивању са Signal серверима за размену порука.
+Molly je bezbednosno fokusirana, unapređena verzija Signala za Android korisnike. Besplatna, open-source i bez bilo kakvog vlasničkog softvera. Pruža dodatne funkcije dok se povezuje sa Signal serverima za poruke.  
 
-Molly враћа заштиту лозинком за вашу локалну базу порука и укључује јединствене функције као што је подршка за више уређаја и још много тога. Изаберите између Molly или Molly-FOSS, оба су бесплатна и отвореног кода, са или без власничких компоненти, у зависности од ваших преференција. Molly побољшава стандардну Signal апликацију без компромитовања безбедности и потпуно је репродуцибилна.
+Molly vraća zaštitu lozinkom za vašu lokalnu bazu poruka i uključuje jedinstvene funkcije kao što je podrška za više uređaja i još mnogo toga. Molly poboljšava standardnu Signal aplikaciju bez kompromitovanja bezbednosti i potpuno je reproducibilna.  
 
-<Strong>Кључне Функције:</Strong>
+<Strong>Ključne funkcije:</Strong>
 
-- Шифровање података у мировању: Заштитите базу порука јаком лозинком.
-- Сигурно брисање RAM меморије: Безбедно обришите осетљиве податке из меморије уређаја.
-- Аутоматско закључавање апликације: Закључајте апликацију у специфичним условима за додатну безбедност.
-- Подршка за више уређаја: Повежите више уређаја, укључујући Android таблете, на један налог.
-- Блокирање непознатих контаката: Онемогућите поруке и позиве од непознатих пошиљаоца за безбедност и анти-спам.
-- Историја позива која нестаје: Обришите обавештења о позивима заједно са истеклим порукама.
-- Опционални debug логови: Онемогућите Android логовање за приватност.
-- Прилагођено заказивање резервних копија: Изаберите дневне или недељне интервале и број резервних копија које се чувају.
-- Подршка за SOCKS и Tor: Усмерите мрежни саобраћај апликације преко проксија и Orbot-а.
+- Šifrovanje podataka u mirovanju: Zaštitite svoju bazu poruka jakim šifrovanjem lozinkom.  
+- Sigurno brisanje RAM-a: Sigurno uklonite osetljive podatke iz memorije uređaja.  
+- Automatsko zaključavanje aplikacije: Zaključajte aplikaciju u određenim uslovima za dodatnu bezbednost.  
+- Podrška za više uređaja: Povežite više uređaja, uključujući Android tablete, sa jednim nalogom.  
+- Blokiranje nepoznatih kontakata: Sprečite poruke i pozive od nepoznatih pošiljalaca radi bezbednosti i protiv spama.  
+- Istorija poziva koja nestaje: Obrišite obaveštenja o pozivima zajedno sa isteklim porukama.  
+- Opcioni debug logovi: Onemogućite Android logovanje radi privatnosti.  
+- Prilagođeno planiranje bekapa: Izaberite dnevne ili nedeljne intervale i broj bekapa koje ćete čuvati.  
+- Podrška za SOCKS proxy i Tor: Usmerite mrežni saobraćaj aplikacije preko proxy-ja i Orbot-a.  
+- Obaveštenja: Izaberite između open-source implementacije bez vlasničkog softvera za FCM, UnifiedPush ili WebSocket.  
 
-За ажурирања, новости и подршку, пратите @mollyim@fosstodon.org. Пријавите грешке и захтеве за функције на GitHub страници пројекта.
+Za ažuriranja, vesti i podršku pratite @mollyim@fosstodon.org. Prijavite bugove i zahteve za funkcije na GitHub stranici projekta.

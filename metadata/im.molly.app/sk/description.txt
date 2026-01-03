@@ -1,17 +1,18 @@
-Molly je verzia Signal pre používateľov Android so zameraním na bezpečnosť a rozšírenými funkciami. Poskytuje ďalšie funkcie pri pripájaní k Signal serverom.
+Molly je bezpečnostne zameraná, vylepšená verzia Signal pre používateľov Androidu. Zadarmo, open-source a bez akéhokoľvek proprietárneho softvéru. Ponúka ďalšie funkcie pri pripojení k serverom správ Signal.  
 
-Molly prináša späť ochranu heslom pre vašu lokálnu databázu správ a obsahuje unikátne funkcie ako podpora viacerých zariadení a ďalšie. Vyberte si medzi Molly alebo Molly-FOSS, obe sú zadarmo a open-source, s proprietárnymi súčasťami alebo bez nich podľa vašich preferencií. Molly vylepšuje štandardnú aplikáciu Signal bez kompromisu bezpečnosti a je plne reprodukovateľná.
+Molly prináša späť ochranu pomocou hesla pre vašu lokálnu databázu správ a obsahuje jedinečné funkcie, ako je podpora viacerých zariadení a ďalšie. Molly zlepšuje štandardnú aplikáciu Signal bez kompromitovania bezpečnosti a je plne reprodukovateľná.  
 
-<Strong>Kľúčové Funkcie:</Strong>
+<Strong>Hlavné funkcie:</Strong>
 
-- Šifrovanie dát v pokoji: Chráňte svoju databázu správ silným heslom.
-- Bezpečné vymazanie RAM: Bezpečne odstráňte citlivé dáta z pamäte zariadenia.
-- Automatické zamykanie aplikácie: Zamknite aplikáciu za špecifických podmienok pre zvýšenú bezpečnosť.
-- Podpora viacerých zariadení: Prepojte viac zariadení, vrátane Android tabletov, na jeden účet.
-- Blokovanie neznámych kontaktov: Zabraňte správam a hovorom od neznámych odosielateľov pre bezpečnosť a anti-spam.
-- Zmizajúca história hovorov: Vymažte notifikácie hovorov spolu s expirovanými správami.
-- Voliteľné ladacie logy: Vypnite Android logovanie pre súkromie.
-- Vlastné plánovanie záloh: Vyberte denné alebo týždenné intervaly a počet záloh na uchovanie.
-- Podpora SOCKS a Tor: Smerujte sieťový traffic aplikácie cez proxy a Orbot.
+- Šifrovanie dát v pokoji: Chráňte svoju databázu správ silným heslom.  
+- Bezpečné vymazávanie RAM: Bezpečne odstráňte citlivé údaje z pamäte zariadenia.  
+- Automatické zamykanie aplikácie: Zamknite aplikáciu za špecifických podmienok pre väčšiu bezpečnosť.  
+- Podpora viacerých zariadení: Prepojte viac zariadení, vrátane tabletov Android, s jedným účtom.  
+- Blokovanie neznámych kontaktov: Zabraňte správam a hovorom od neznámych odosielateľov pre bezpečnosť a proti spamu.  
+- Zmiznutá história hovorov: Odstráňte upozornenia na hovory spolu s expirovanými správami.  
+- Voliteľné debug logy: Vypnite logovanie Android pre súkromie.  
+- Prispôsobené plánovanie záloh: Vyberte si denné alebo týždenné intervaly a počet záloh, ktoré sa majú uchovať.  
+- Podpora SOCKS proxy a Tor: Smerujte sieťový prenos aplikácie cez proxy a Orbot.  
+- Notifikácie: Vyberte si medzi open-source, bez proprietárneho softvéru implementáciou FCM, UnifiedPush alebo WebSocket.  
 
-Pre aktualizácie, novinky a podporu sledujte @mollyim@fosstodon.org. Hlásenie chýb a žiadosti o funkcie na stránke GitHub projektu.
+Pre aktualizácie, novinky a podporu sledujte @mollyim@fosstodon.org. Hláste chyby a žiadosti o funkcie na stránke GitHub projektu.

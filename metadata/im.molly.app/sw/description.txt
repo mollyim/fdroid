@@ -1,17 +1,18 @@
-Molly ni toleo lililolenga usalama la Signal kwa watumiaji wa Android. Lina huduma za ziada wakati likiunganisha na seva za ujumbe za Signal.
+Molly ni toleo lililoboreshwa na linalolenga usalama la Signal kwa watumiaji wa Android. Ni bure, chanzo huria (open-source) na bila programu yoyote ya umiliki. Inatoa vipengele vya ziada huku ikijiunganisha na seva za ujumbe za Signal.  
 
-Molly inarudisha ulinzi wa nenosiri kwa hifadhidata yako ya ujumbe wa ndani na inajumuisha vipengele vya kipekee kama msaada wa vifaa vingi, na zaidi. Chagua kati ya Molly au Molly-FOSS, vyote ni bure na vyanzo wazi, na au bila vipengele vya miliki, kulingana na mapendeleo yako. Molly inaboresha app ya Signal bila kupunguza usalama na inaweza kutengeneza upya kikamilifu.
+Molly inarejesha ulinzi wa nenosiri kwa hifadhidata yako ya ujumbe wa ndani na inajumuisha vipengele vya kipekee kama msaada wa vifaa vingi, na zaidi. Molly inaboresha programu ya Signal ya kawaida bila kudhoofisha usalama na inaweza kurudiwa kikamilifu.  
 
 <Strong>Vipengele Muhimu:</Strong>
 
-- Usimbaji wa data wakati haiko katika matumizi: Linda hifadhidata yako ya ujumbe kwa usimbaji wa nenosiri imara.
-- Kuondoa RAM kwa usalama: Futa data nyeti kutoka kwenye kumbukumbu ya kifaa kwa usalama.
-- Kufunga app kiotomati: Funga app chini ya hali maalum kwa usalama zaidi.
-- Msaada wa vifaa vingi: Unganisha vifaa vingi, ikiwemo vidonge vya Android, kwa akaunti moja.
-- Kuzuia mawasiliano yasiyojulikana: Zuia ujumbe na simu kutoka kwa watuma wasiojulikana kwa usalama na anti-spam.
-- Historia ya simu inayopotea: Futa arifa za simu pamoja na ujumbe unaoisha.
-- Vibao vya uchambuzi vya hiari: Zima uandikishaji wa Android kwa faragha.
-- Ratiba ya backup ya kawaida: Chagua vipindi vya kila siku au wiki na idadi ya backup za kuhifadhi.
-- SOCKS proxy na msaada wa Tor: Elekeza trafiki ya mtandao wa app kupitia proxy na Orbot.
+- Usimbaji wa data ukiwa huru: Linda hifadhidata yako ya ujumbe kwa usimbaji thabiti wa nenosiri.  
+- Futa RAM kwa usalama: Futa data nyeti kutoka kwa kumbukumbu ya kifaa kwa usalama.  
+- Kufunga programu kiotomatiki: Funga programu katika hali maalum kwa usalama zaidi.  
+- Msaada wa vifaa vingi: Unganisha vifaa vingi, ikiwemo vidonge vya Android, kwa akaunti moja.  
+- Kuzuia mawasiliano yasiyojulikana: Zuia ujumbe na simu kutoka kwa watumaji wasiojulikana kwa usalama na dhidi ya spam.  
+- Historia ya simu inayofutika: Futa arifa za simu pamoja na ujumbe unaoisha muda wake.  
+- Faili za ukaguzi (debug) hiari: Zima upigaji kumbukumbu (logging) wa Android kwa faragha.  
+- Ratiba ya nakala rudufu iliyobinafsishwa: Chagua vipindi vya kila siku au kila wiki na idadi ya nakala rudufu za kuhifadhi.  
+- Msaada wa SOCKS proxy na Tor: Elekeza trafiki ya mtandao wa programu kupitia proxy na Orbot.  
+- Arifa: Chagua kati ya utekelezaji wa chanzo huria na bila umiliki wa FCM, UnifiedPush au WebSocket.  
 
-Kwa masasisho, habari, na msaada, fuata @mollyim@fosstodon.org. Tuma mdudu na ombi la kipengele kwenye ukurasa wa GitHub wa mradi.
+Kwa masasisho, habari na msaada, fuata @mollyim@fosstodon.org. Tuma ripoti za kasoro (bugs) na maombi ya vipengele kwenye ukurasa wa GitHub wa mradi.

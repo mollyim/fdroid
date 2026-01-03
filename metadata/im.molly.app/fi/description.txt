@@ -1,17 +1,18 @@
-Molly on turvallisuuteen keskittynyt, paranneltu versio Signalista Android-käyttäjille. Se tarjoaa lisäominaisuuksia yhdistyessään Signalin viestipalvelimiin.
+Molly on turvallisuuteen keskittyvä, paranneltu versio Signalista Android-käyttäjille. Se on ilmainen, avoimen lähdekoodin ja ei sisällä suljettua ohjelmistoa. Tarjoaa lisäominaisuuksia samalla, kun se yhdistyy Signal-viestipalvelimiin.
 
-Molly palauttaa salasanalauseella suojauksen paikalliselle viestitietokannallesi ja sisältää ainutlaatuisia toimintoja, kuten monilaitetuen ja paljon muuta. Valitse Molly tai Molly-FOSS – molemmat ilmaisia ja avoimen lähdekoodin vaihtoehtoja, joko omistusoikeudellisilla osilla tai ilman, mieltymystesi mukaan. Molly parantaa alkuperäistä Signal-sovellusta tinkimättä turvallisuudesta ja on täysin toistettavissa.
+Molly tuo takaisin salasanasuojauksen paikalliselle viestitietokannallesi ja sisältää ainutlaatuisia ominaisuuksia, kuten monilaitetuen ja muuta. Molly parantaa Signal-sovelluksen vakio-versiota vaarantamatta turvallisuutta ja on täysin toistettavissa.
 
-<Strong>Tärkeimmät ominaisuudet:</Strong>
+<Strong>Pääominaisuudet:</Strong>
 
-- Datan salaus levossa: Suojaa viestitietokanta vahvalla salasanalauseen salauksella.
-- Turvallinen RAM-pyyhin: Poistaa arkaluontoiset tiedot turvallisesti laitteen muistista.
-- Automaattinen sovelluslukko: Lukitsee sovelluksen tietyissä olosuhteissa lisäturvallisuuden vuoksi.
-- Monilaitetuki: Yhdistä useita laitteita, mukaan lukien Android-tabletit, yhteen tiliin.
-- Tuntemattomien yhteystietojen esto: Estä viestit ja puhelut tuntemattomilta lähettäjiltä.
-- Katoava puheluhistoria: Tyhjentää puheluilmoitukset yhdessä vanhenevien viestien kanssa.
-- Valinnaiset virhelokit: Poista Android-lokien tallennus yksityisyyden suojaamiseksi.
-- Mukautettu varmuuskopiointiaikataulu: Valitse päivittäinen tai viikoittainen aikaväli ja säilytettävien varmuuskopioiden määrä.
-- SOCKS-välityspalvelin ja Tor-tuki: Ohjaa sovelluksen verkkoliikenne välityspalvelimen ja Orbotin kautta.
+- Tietojen salaus levossa: Suojaa viestitietokantasi vahvalla salasanalla.
+- Turvallinen RAM-pyyhkiminen: Poista arkaluontoiset tiedot laitteesi muistista turvallisesti.
+- Automaattinen sovelluksen lukitus: Lukitse sovellus tietyissä olosuhteissa lisäturvallisuuden takaamiseksi.
+- Monilaitetuki: Liitä useita laitteita, mukaan lukien Android-tabletit, yhteen tiliin.
+- Tuntemattomien kontaktien estäminen: Estä viestit ja puhelut tuntemattomilta lähettäjiltä turvallisuuden ja roskapostin eston vuoksi.
+- Häviävä puheluhistoria: Tyhjennä puhelu-ilmoitukset yhdessä vanhenevien viestien kanssa.
+- Valinnaiset debug-lokit: Poista Android-lokit käytöstä yksityisyyden suojaamiseksi.
+- Räätälöity varmuuskopioiden aikataulu: Valitse päivittäiset tai viikoittaiset aikavälit ja tallennettavien varmuuskopioiden määrä.
+- SOCKS-proxy ja Tor-tuki: Reititä sovelluksen verkkoliikenne proxyn ja Orbotin kautta.
+- Ilmoitukset: Valitse avoimen lähdekoodin ja omistusoikeudettoman toteutuksen välillä FCM:lle, UnifiedPushille tai websocketille.
 
-Pysy ajan tasalla seuraamalla @mollyim@fosstodon.org. Ilmoita virheistä ja toiveominaisuuksista projektin GitHub-sivulla.
+Päivitettyjen versioiden, uutisten ja tuen saamiseksi seuraa @mollyim@fosstodon.org. Lähetä bugiraportit ja ominaisuuspyynnöt projektin GitHub-sivulla.
